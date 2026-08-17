@@ -76,13 +76,13 @@ export default async function EditMarinaPage({
   }
 
   const description = Array.isArray(marina.description)
-    ? marina.description
-        .filter(
-          (item): item is string =>
-            typeof item === "string"
-        )
-        .join("\n")
-    : "";
+  ? (marina.description as unknown[])
+      .filter(
+        (item): item is string =>
+          typeof item === "string"
+      )
+      .join("\n")
+  : "";
 
   return (
     <section>
