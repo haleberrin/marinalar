@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
+import type { Prisma } from "@prisma/client";
 
 import { auth } from "@/auth";
 import { prisma } from "@/lib/prisma";
@@ -538,7 +539,8 @@ export async function PATCH(
     }
 
 
-    await prisma.$transaction(async (tx) => {
+    await prisma.$transaction(
+      async (tx: Prisma.TransactionClient) => {
         await tx.marina.update({
           where: {
             id,
