@@ -1,0 +1,186 @@
+{
+    "id": "b",
+    "letter": "B",
+    "terms": [
+      {
+        "id": "baba",
+        "slug": "baba",
+        "term": "BABA",
+        "definition": "Halat volta etmek için ağaç veya metalden yapılmış silindirik biçimde güverte veya rıhtıma bağlanmış bir eleman."
+      },
+      {
+        "id": "babafingo",
+        "slug": "babafingo",
+        "term": "BABAFİNGO",
+        "definition": "Bir halatın aşınmaması için üstünün halat veya koruyucu bir malzeme ile sarılması"
+      },
+      {
+        "id": "badarnaEtmek",
+        "slug": "badarnaEtmek",
+        "term": "BADARNA ETMEK",
+        "definition": "Bir halatın aşınmaması için üstünün halat veya koruyucu bir malzeme ile sarılması"
+      },
+      {
+        "id": "bakla",
+        "slug": "bakla",
+        "term": "BAKLA",
+        "definition": "Zincirin bir halkası"
+      },
+      {
+        "id": "balonUsturmaca",
+        "slug": "balonUsturmaca",
+        "term": "BALON-USTURMAÇA",
+        "definition": "Halattan, hasırdan veya sentetik malzemeden yapılmış, içi doldurulmuş veya şişirilmiş bir usturmaça çeşidi"
+      },
+      {
+        "id": "bandra",
+        "slug": "bandra",
+        "term": "BANDRA",
+        "definition": "Milliyeti gösteren sancak"
+      },
+      {
+        "id": "barbariska",
+        "slug": "barbariska",
+        "term": "BARBARİŞKA",
+        "definition": "Tututlmakta olan bir halatın kaymaması için yapılan bir bağ çeşidi"
+      },
+      {
+        "id": "bastina",
+        "slug": "bastina",
+        "term": "BASTİNA",
+        "definition": "Palangalarda kullanılan bir nevi dilli makara, Karnıyarık bastika"
+      },
+      {
+        "id": "baston",
+        "slug": "baston",
+        "term": "BASTON",
+        "definition": "Ana cıvadranın üzerinde ileriye doğru uzatılmış çubuk"
+      },
+      {
+        "id": "bas",
+        "slug": "bas",
+        "term": "BAŞ",
+        "definition": "Bir teknenin ön ve ileri kısmı"
+      },
+      {
+        "id": "basBodoslama",
+        "slug": "basBodoslama",
+        "term": "BAŞ BODOSLAMA",
+        "definition": "Omurganın baş tarafından teknenin başını meydana getirmek için yukarı istikamete doğru konulan ağaç parçası"
+      },
+      {
+        "id": "basKasara",
+        "slug": "basKasara",
+        "term": "BAŞ KASARA",
+        "definition": "Genellikle gemilerdeki baş tarftaki yüksek kısım."
+      },
+      {
+        "id": "basOmuzluk",
+        "slug": "basOmuzluk",
+        "term": "BAŞ OMUZLUK",
+        "definition": "Kemere ile baş bodoslama arasındaki yuvarlak kısım"
+      },
+      {
+        "id": "basParima",
+        "slug": "basParima",
+        "term": "BAŞ PARİMA",
+        "definition": "Bir botun baş üzerindeki analeye bağlanmış kısa halatı"
+      },
+      {
+        "id": "basli",
+        "slug": "basli",
+        "term": "BAŞLI",
+        "definition": "Baştarafın kıça nazaran daha batık olması"
+      },
+      {
+        "id": "bastankaraEtmek",
+        "slug": "bastankaraEtmek",
+        "term": "BAŞTANKARA ETMEK",
+        "definition": "Tekneyi bir sahile beya kumsala baş taraftan oturtmak veya yanaştırmak"
+      },
+      {
+        "id": "basustu",
+        "slug": "basustu",
+        "term": "BAŞÜSTÜ",
+        "definition": "Bir botun baştarafında oturabilecek ve ayakta durulabilecek platform"
+      },
+      {
+        "id": "bermudaArma",
+        "slug": "bermudaArma",
+        "term": "BERMUDA ARMA",
+        "definition": "Uzun bir direk üzerine yelken açmak için düşünülmüş arma tipi, Marconi arma Bu tip armada yelken sereni yok ancak bumbası vardır."
+      },
+      {
+        "id": "bindirmeKaplama",
+        "slug": "bindirmeKaplama",
+        "term": "BİNDİRME KAPLAMA",
+        "definition": "Armuz kaplamanın biribir üzerine konularak yapılma şekli, Bama tiriz"
+      },
+      {
+        "id": "bita",
+        "slug": "bita",
+        "term": "BİTA",
+        "definition": "Gemi veya yelkenli gemilerde halatların veya yelkenlerin iskotalarını volta etmek üzere güverte üzerine konulmuş küçük babalar. Genel olarak kurt ağızlarının gerisinde bulunur. Bitaların üst kısımları halatların kayarak çıkmalarını önlemek maksadıyla alt taraflarına nazaran daha geniş olur."
+      },
+      {
+        "id": "bocurum",
+        "slug": "bocurum",
+        "term": "BOCURUM",
+        "definition": "Yelkenli teknelerde kıç bodoslama / kıç aynalık üzerinde bulunan direğe çekilen yelken"
+      },
+      {
+        "id": "borda",
+        "slug": "borda",
+        "term": "BORDA",
+        "definition": "Su kesiminden yukarıda kalan kısım"
+      },
+      {
+        "id": "bordaFeneri",
+        "slug": "bordaFeneri",
+        "term": "BORDA FENERİ",
+        "definition": "Sancakta yeşil, iskelede kırmızı olarak yakılan 112,5 açılı fener"
+      },
+      {
+        "id": "bosa",
+        "slug": "bosa",
+        "term": "BOSA",
+        "definition": "Demir loçaya oturduktan veya zincire yeteri kadar kaloma verildikten sonra zincir veya demirin ağırlığını ırgat üzerinden kaldırmak için güverte üzerindeki mapalara kilitlenmiş uçları maça kilitli kısa zincir."
+      },
+      {
+        "id": "bosalmak",
+        "slug": "bosalmak",
+        "term": "BOŞ ALMAK",
+        "definition": "Gevşek bir halatı germek için fazlasını çekmek"
+      },
+      {
+        "id": "bosvermek",
+        "slug": "bosvermek",
+        "term": "BOŞ VERMEK",
+        "definition": "Halatı kaçırmak"
+      },
+      {
+        "id": "branda",
+        "slug": "branda",
+        "term": "BRANDA",
+        "definition": "Eskiden yelken yapılan bir cins kumaş yada kumaştan yapılan ve gemicilerin hamak olarak kullandıkları yatak."
+      },
+      {
+        "id": "bumba",
+        "slug": "bumba",
+        "term": "BUMBA",
+        "definition": "Yan yelkenlerin alt yakalarını germek için kullanılan bir cins seren.Yük gemilerinde yük aktarmak için ucuna palanga takılan seren"
+      },
+      {
+        "id": "burgata",
+        "slug": "burgata",
+        "term": "BURGATA",
+        "definition": "Halat ve zincir ebadını ölçmek için kullanılan bir ölçü"
+      },
+      {
+        "id": "bukun",
+        "slug": "bukun",
+        "term": "BÜKÜN",
+        "definition": "Halatın veya bir yomanın sağa veya sola doğru kollarının bükülmesi"
+      }
+    ]
+  }

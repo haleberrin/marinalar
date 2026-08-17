@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bodrum",
+    "name": "Bodrum",
+    "slug": "bodrum",
+    "cityId": "mugla",
+    "description": "Ege'nin eşsiz kıyılarında yer alan Bodrum, Türkiye'nin en önemli yatçılık merkezlerinden biridir.",
+    "coverImage": "/images/districts/bodrum.webp"
+  },
+  {
+    "id": "fethiye",
+    "name": "Fethiye",
+    "slug": "fethiye",
+    "cityId": "mugla",
+    "description": "Ege'nin eşsiz kıyılarında yer alan Fethiye, koyları ve doğal güzellikleriyle önemli bir yatçılık merkezidir.",
+    "coverImage": "/images/districts/fethiye.jpeg"
+  },
+  {
+    "id": "marmaris",
+    "name": "Marmaris",
+    "slug": "marmaris",
+    "cityId": "mugla",
+    "description": "Ege'nin önemli yatçılık merkezlerinden biri olan Marmaris, doğal limanı ve marinalarıyla öne çıkar.",
+    "coverImage": "/images/districts/marmaris.jpeg"
+  },
+  {
+    "id": "gocek",
+    "name": "Göcek",
+    "slug": "gocek",
+    "cityId": "mugla",
+    "description": "Göcek, doğal koyları, adaları ve yüksek kaliteli marinalarıyla Türkiye'nin önemli yatçılık merkezlerinden biridir.",
+    "coverImage": "/images/districts/gocek.jpeg"
+  }
+]

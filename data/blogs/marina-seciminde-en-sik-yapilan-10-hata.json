@@ -1,0 +1,32 @@
+{
+    "id": "blog-4",
+    "slug": "marina-seciminde-yapilan-hatalar",
+    "title": "Marina Seçimi Yaparken En Sık Yapılan 10 Hata",
+    "excerpt": "Marina seçerken yapılan yaygın hatalar ve doğru seçim kriterleri.",
+    "metaTitle": "Marina Seçim Hataları",
+    "metaDescription": "Marina seçerken yapılan 10 yaygın hata ve doğru seçim rehberi.",
+    "featuredImage": "/images/HeroSlider1.jpg",
+    "author": "Marina Guide",
+    "publishedAt": "2026-01-20",
+    "readingTime": 6,
+    "tags": ["marina", "hata", "yat", "rehber"],
+    "relatedMarinas": ["yalikavak-marina", "d-marin-gocek"],
+    "category": "Marina Rehberi",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "En Sık Yapılan Hatalar"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Sadece fiyata odaklanmak",
+          "Hava koşullarını göz ardı etmek",
+          "Teknik altyapıyı incelememek",
+          "Güvenlik sistemlerini kontrol etmemek",
+          "Sezon yoğunluğunu hesaba katmamak"
+        ]
+      }
+    ]
+  }

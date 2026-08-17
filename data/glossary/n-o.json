@@ -1,0 +1,79 @@
+{
+  "id": "n-o-ö",
+  "letter": "N-O-Ö",
+  "terms": [
+    {
+      "id": "neta",
+      "slug": "neta",
+      "term": "NETA",
+      "definition": "Muntazam, düzgün, tertipli veya emniyetli."
+    },
+    {
+      "id": "nevcet",
+      "slug": "nevcet",
+      "term": "NEVCET",
+      "definition": "Hamak sarılan inceler."
+    },
+    {
+      "id": "omurga",
+      "slug": "omurga",
+      "term": "OMURGA",
+      "definition": "Bir teknenin postalarının üzerine oturtulup bağlandığı ve baştan kıça kadar devam ettiği ağaç/madeni parçalardır."
+    },
+    {
+      "id": "omuzluk",
+      "slug": "omuzluk",
+      "term": "OMUZLUK",
+      "definition": "Teknenin baş ve kıç tarafındaki 45 derecelik açı civarındaki istikamet."
+    },
+    {
+      "id": "orsa",
+      "slug": "orsa",
+      "term": "ORSA",
+      "definition": "Yelkenleri elden geldiği kadar rüzgarın estiği tarafa yaklaştırarak seyretmek."
+    },
+    {
+      "id": "orsaalabandatramola",
+      "slug": "orsaalabandatramola",
+      "term": "ORSA ALABANDA TRAMOLA",
+      "definition": "Teknenin başını rüzgara alıp bir kuntradan diğer kuntraya geçmek."
+    },
+    {
+      "id": "orsahalinde",
+      "slug": "orsahalinde",
+      "term": "ORSA HALİNDE",
+      "definition": "Bir teknenin mümkün olduğu kadar rüzgarın estiği cihete yakın seyredişi."
+    },
+    {
+      "id": "orsapupacemberi",
+      "slug": "orsapupacemberi",
+      "term": "ORSA PUPA ÇEMBERİ",
+      "definition": "Bumbanın cundasına yakın ve iki tarafında da mapa bulunan madeni çember."
+    },
+    {
+      "id": "orsaalanbandaeglenmek",
+      "slug": "orsaalanbandaeglenmek",
+      "term": "ORSAALABANDA EĞLENMEK",
+      "definition": "Rüzgarı bordaya alarak, yelkenleri birbirinin aksine alıp tekneyi yolundan alakoyup vakit geçirmektir."
+    },
+    {
+      "id": "orsadakazanmak",
+      "slug": "orsadakazanmak",
+      "term": "ORSADA KAZANMAK",
+      "definition": "Bir teknenin orsa seyrinde az düşme yapıp istediği tarafa gidişte kazanması."
+    },
+    {
+      "id": "orsayakacmak",
+      "slug": "orsayakacmak",
+      "term": "ORSAYA KAÇMAK",
+      "definition": "Bir yelkenli teknenin devamlı olarak baş tutamayıp rüzgar üstüne kaçmasıdır."
+    },
+    {
+      "id": "oksuzkemere",
+      "slug": "oksuzkemere",
+      "term": "ÖKSÜZ KEMERE",
+      "definition": "Ambar ağızları ve güverteler üzerine açılmış kaportalar dolayısı ile alabandadan alabandaya kadar uzamayan ve bir uçları ambar veya kaporta hizasında kesilen kemereler."
+    }
+    
+  ]
+}

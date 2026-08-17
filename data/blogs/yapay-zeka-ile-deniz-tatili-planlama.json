@@ -1,0 +1,35 @@
+{
+    "id": "blog-3",
+    "slug": "yapay-zeka-ile-deniz-tatili-planlama",
+    "title": "Yapay Zeka ile Deniz Tatili Planlamak Mümkün mü?",
+    "excerpt": "AI teknolojilerinin denizcilik ve yat turizminde rota planlama ve tatil optimizasyonuna etkisi.",
+    "metaTitle": "Yapay Zeka ile Deniz Tatili Planlama",
+    "metaDescription": "Yapay zeka destekli deniz tatili planlama ve akıllı rota sistemleri hakkında rehber.",
+    "featuredImage": "/images/HeroSlider1.jpg",
+    "author": "Marina Guide",
+    "publishedAt": "2026-01-15",
+    "readingTime": 7,
+    "tags": ["ai", "yapayzeka", "yat", "rota", "teknoloji"],
+    "relatedMarinas": ["yalikavak-marina", "ece-saray-marina"],
+    "category": "Teknoloji",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Denizcilikte Dijital Dönüşüm"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yapay zeka artık denizcilikte rota planlama ve güvenlik analizlerinde aktif olarak kullanılmaktadır."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Hava durumu analizi",
+          "Deniz koşulları",
+          "Marina yoğunluğu",
+          "Kullanıcı tercihleri"
+        ]
+      }
+    ]
+  }

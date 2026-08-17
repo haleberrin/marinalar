@@ -1,0 +1,36 @@
+{
+    "id": "blog-2",
+    "slug": "egede-yat-rotalari",
+    "title": "Göcek'ten Bodrum'a: Ege'nin En Güzel Yat Rotaları",
+    "excerpt": "Göcek çıkışlı Ege rotaları, koylar ve yatçılar için en ideal seyir planı.",
+    "metaTitle": "Ege Yat Rotaları | Göcek - Bodrum",
+    "metaDescription": "Göcek'ten Bodrum'a uzanan en güzel yat rotaları ve seyir planı rehberi.",
+    "featuredImage": "/images/HeroSlider2.jpg",
+    "author": "Marina Guide",
+    "publishedAt": "2026-01-12",
+    "readingTime": 8,
+    "tags": ["rota", "yat", "ege", "seyir", "gocek", "bodrum"],
+    "relatedMarinas": ["d-marin-gocek", "yalikavak-marina"],
+    "category": "Rota ve Seyahat",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Neden Ege Kıyıları?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ege kıyıları sakin denizi ve doğal koyları ile yatçılar için ideal bir seyir bölgesidir."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Göcek Adaları",
+          "Ekincik Koyu",
+          "Marmaris",
+          "Datça",
+          "Bodrum"
+        ]
+      }
+    ]
+  }

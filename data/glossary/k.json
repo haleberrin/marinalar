@@ -1,0 +1,247 @@
+{
+  "id": "k",
+  "letter": "K",
+  "terms": [
+    {
+      "id": "kabasortaarma",
+      "slug": "kabasortaarma",
+      "term": "KABASORTA ARMA",
+      "definition": "Serenleri direklere dik ve kemere istikametinde olan dört köşe yelkenli arma."
+    },
+    {
+      "id": "kalastra",
+      "slug": "kalastra",
+      "term": "KALASTRA",
+      "definition": "Kuntra güvertelerin üzerine alınan filikaların oturtuldukları ağaç veya metal kürsü."
+    },
+    {
+      "id": "kaloma",
+      "slug": "kaloma",
+      "term": "KALOMA",
+      "definition": "Demir üzerinde bulunan teknelerin denizde bulunan zincir mesafesi. Boşluk ve rahatlık, tolerans, ölçülü."
+    },
+    {
+      "id": "kalomaetmek",
+      "slug": "kalomaetmek",
+      "term": "KALOMA ETMEK",
+      "definition": "Zincir gerektiğinde daha fazla salmak, Kaloma vermek."
+    },
+    {
+      "id": "kanarakamlari",
+      "slug": "kanarakamlari",
+      "term": "KANA RAKAMLARI",
+      "definition": "Gemilerin çektikleri su derinliğini göstermek için baş ve kıç dikmeler hizasına sancak ve iskele taraflara desimetre veya feet cinsinden çizilmiş rakamlar. Romen ve italik."
+    },
+    {
+      "id": "kandilisa",
+      "slug": "kandilisa",
+      "term": "KANDİLİSA",
+      "definition": "Yelkenleri yukarı kaldırmak için kullanılan halat."
+    },
+    {
+      "id": "kapelemusamba",
+      "slug": "kapelemusamba",
+      "term": "KAPELE MUŞAMBA",
+      "definition": "Pusula, dümen dolabı, kaporta, vinç gibi kısımların yağmur ve güneşten korunması için yelken brandasından yapılmış kılıfların geçirilmesi için verilen emir."
+    },
+    {
+      "id": "kaplama",
+      "slug": "kaplama",
+      "term": "KAPLAMA",
+      "definition": "Postaların üzerine boyuna kaplanan saç veya tahtalar."
+    },
+    {
+      "id": "kaporta",
+      "slug": "kaporta",
+      "term": "KAPORTA",
+      "definition": "Gemi veya tekne içindeki kapılara ve güverteden aşağı iniş ve çıkış merdivenlerinin üzerindeki kapalı yerlere denir."
+    },
+    {
+      "id": "karanfil",
+      "slug": "karanfil",
+      "term": "KARANFİL",
+      "definition": "Üzerine birşey bağlamak veya asmak için iki yer arasına girilen halat. Matafora cundaları arasına girilen ve üzerine can halatlarının bağlandığı halat."
+    },
+    {
+      "id": "karavelekaplama",
+      "slug": "karavelekaplama",
+      "term": "KARAVELE KAPLAMA",
+      "definition": "İçi kutrani dışı armuz kaplama olan bir kaplama şekli."
+    },
+    {
+      "id": "karina",
+      "slug": "karina",
+      "term": "KARİNA",
+      "definition": "Bir teknenin su altında kalan ıslak kısmı (dış kısmı)."
+    },
+    {
+      "id": "karulayakasi",
+      "slug": "karulayakasi",
+      "term": "KARULA YAKASI",
+      "definition": "Bir yan yelkenin direğe yakın alt yakası (köşesi)."
+    },
+    {
+      "id": "kasa",
+      "slug": "kasa",
+      "term": "KASA",
+      "definition": "Halatların çımalarına açılmayacak şekilde yuvarlak şekilde yapılan ve dikişle emniyete alınan yuvarlak büyük halkalar."
+    },
+    {
+      "id": "kasara",
+      "slug": "kasara",
+      "term": "KASARA",
+      "definition": "Teknelerin baş orta ve kıç kısımlarında güverteden daha yüksek olan güvertelere veya kısımlara denir."
+    },
+    {
+      "id": "kastanyola",
+      "slug": "kastanyola",
+      "term": "KASTANYOLA",
+      "definition": "Demir zinciri akarken durdurabilmek için ırgat etrafına konan demir veya çelik şerit çember (bir çeşit fren balatası)."
+    },
+    {
+      "id": "kavanca",
+      "slug": "kavanca",
+      "term": "KAVANCA",
+      "definition": "Herhangi bir şeyi bir taraftan diğer tarafa geçirmek veya aşırmak ya da bir yerden diğer bir yere aktarmak."
+    },
+    {
+      "id": "kemere",
+      "slug": "kemere",
+      "term": "KEMERE",
+      "definition": "Güveretenin döşenebilmesi için posta uçlarını birleştiren enine (omurgaya dik) konan kısımlardır. (yarım olanına ÖKSÜZ KEMERE denir)."
+    },
+    {
+      "id": "kerte",
+      "slug": "kerte",
+      "term": "KERTE",
+      "definition": "Bir dairenin 32'de biridir. (11 derece 15 dakika)."
+    },
+    {
+      "id": "kerteriz",
+      "slug": "kerteriz",
+      "term": "KERTERİZ",
+      "definition": "Herhangi bir maddenin bir tekneden olan yönünü mıknatısı veya cayro puslaile tayin etmek veya ölçmek."
+    },
+    {
+      "id": "kerye",
+      "slug": "kerye",
+      "term": "KERYE",
+      "definition": "İki haltı birleştirmek için veya halatın çımasına geçici kasa yapmak için sadece madeni halatta kullanılan cıvatalı mengene."
+    },
+    {
+      "id": "kible",
+      "slug": "kible",
+      "term": "KIBLE",
+      "definition": "Güney."
+    },
+    {
+      "id": "kic",
+      "slug": "kic",
+      "term": "KIÇ",
+      "definition": "Teknenin geri tarafı."
+    },
+    {
+      "id": "kicbodoslama",
+      "slug": "kicbodoslama",
+      "term": "KIÇ BODOSLAMA",
+      "definition": "Omurgadan kıç taraf kaldırılan dik kısım Ağaç veya maden."
+    },
+    {
+      "id": "kicgonderi",
+      "slug": "kicgonderi",
+      "term": "KIÇ GÖNDERİ",
+      "definition": "Kıç tarafta sancak çekilmesi için dikilmiş olan gönder."
+    },
+    {
+      "id": "kilit",
+      "slug": "kilit",
+      "term": "KİLİT",
+      "definition": "12,5/15 kulaç zincir uzunluğu veya iki kilit zinciri birbirine bağlayan bir tarafı değirmi diğer tarafı harbili bir cins zincir baklası."
+    },
+    {
+      "id": "kinistinvalfi",
+      "slug": "kinistinvalfi",
+      "term": "KİNİSTİN VALFI",
+      "definition": "Gerektiğinde bir tekneye denizden su almak için su kesiminden aşağıya konmuş ve gerektiğinde uzaktan açılıp kapatılabilecek valf."
+    },
+    {
+      "id": "kocboynuzu",
+      "slug": "kocboynuzu",
+      "term": "KOÇ BOYNUZU",
+      "definition": "Baş ve kıç omuzluklar ile mataforaların üzerinde bulunan ve halat volta etmek için kullanılan boynuz şeklinde iki kulaklı madenler."
+    },
+    {
+      "id": "kol",
+      "slug": "kol",
+      "term": "KOL",
+      "definition": "Flasaların bir tarafa bükülmeisi sonucu halatta elde edilen elemanlar. Flasa gibi bütün halat boyundadırlar."
+    },
+    {
+      "id": "koltukhalati",
+      "slug": "koltukhalati",
+      "term": "KOLTUK HALATI",
+      "definition": "Gemilerin baş ve kıç tarafından shile verdikleri halatlar. Kısa olarak koltuk denir."
+    },
+    {
+      "id": "kontramizanadiregi",
+      "slug": "kontramizanadiregi",
+      "term": "KONTRA MİZANA DİREĞİ",
+      "definition": "Mizana direğinin gerisindeki direk"
+    },
+    {
+      "id": "kontraomurga",
+      "slug": "kontraomurga",
+      "term": "KONTRA OMURGA",
+      "definition": "Ana omurganın aşınmaması için altına konan şerit halindeki parça."
+    },
+    {
+      "id": "kontraguverte",
+      "slug": "kontraguverte",
+      "term": "KONTRA TAVLON GÜVERTE",
+      "definition": "Eski harp gemilerine ait bir güverte katı."
+    },
+    {
+      "id": "kontratamizanadiregi",
+      "slug": "kontratamizanadiregi",
+      "term": "KONTRATA MİZANA DİREĞİ",
+      "definition": "Kontra mizanadan sonraki kıç direk."
+    },
+    {
+      "id": "korkapak",
+      "slug": "korkapak",
+      "term": "KÖRKAPAK",
+      "definition": "Lumbuzları içerden kapayan demir kapak."
+    },
+    {
+      "id": "kunta",
+      "slug": "kunta",
+      "term": "KUNTRA",
+      "definition": "İskota yakasına bağlanan iki inceden birisi iskota olarak kullanıldığında diğeri kuntra olur. Kontra kontr kelimesinden gelme olup, karşı-zıt-yedek anlamında kullanılır.Kuntra omurga, bodoslama-grandi-güverte gibi Kuntra flok-kuntra mizana ve benzeri."
+    },
+    {
+      "id": "kurtagzi",
+      "slug": "kurtagzi",
+      "term": "KURT AĞAZI:",
+      "definition": "İçinde halat geçmesi için güverte üzerinde baş ve kıç omuzluklarına monte edilen demir yastıklar."
+    },
+    {
+      "id": "kutranikapla",
+      "slug": "kutranikapla",
+      "term": "KUTRANİ KAPLAMA",
+      "definition": "Ahşap diagonal (çapraz) kaplama"
+    },
+    {
+      "id": "kupeste",
+      "slug": "kupeste",
+      "term": "KÜPEŞTE",
+      "definition": "Güverte üstündeki borda kaplaması."
+    },
+    {
+      "id": "kureklumbari",
+      "slug": "kureklumbari",
+      "term": "KÜREK LUMBARI",
+      "definition": "Askeri filikalarda iskarmoz yerine küreklerin oturtuldukları oyuk yerler (küpeştede takazlık tahtasında)."
+    }
+    
+  ]
+}

@@ -1,0 +1,192 @@
+{
+    "id": "v-y-z",
+    "letter": "V-Y-Z",
+    "terms": [
+      {
+        "id": "varagele",
+        "slug": "varagele",
+        "term": "VARAGELE",
+        "definition": "İki nokta arasında gerilmiş olan kuvvetlice bir halat üzerinde hareket eden bir makaraya bağlı sepet veya iskemle donanımlı insan ve eşya taşımak için kullanılan donanım."
+      },
+      {
+        "id": "vardavela",
+        "slug": "vardavela",
+        "term": "VARDAVELA",
+        "definition": "Teknelerin küpeştelerinde ve borda iskelelerinde personelin korunması için dikilmiş bulunan sabit veya yatar kalkar puntellerin üzerine yatay olarak geçirilmiş demir veya ağaç tiriz."
+      },
+      {
+        "id": "vardavelaPunteli",
+        "slug": "vardavelaPunteli",
+        "term": "VARDAVELA PUNTELİ:",
+        "definition": "Küpeştelere konmuş olan ağaç veya demir sabit veya yatıp kalkan punteller."
+      },
+      {
+        "id": "varil",
+        "slug": "varil",
+        "term": "VARİL",
+        "definition": "Mancana büyüklüğündeki madeni fıçı."
+      },
+      {
+        "id": "vaealdibarka",
+        "slug": "vaealdibarka",
+        "term": "VELEDİBARKA",
+        "definition": "Fırtınalı havalarda pruva ana istrelyası üzerine açılan flok."
+      },
+      {
+        "id": "veleistralyeYelkeni",
+        "slug": "veleistralyeYelkeni",
+        "term": "VELEİSTRALYE YELKENİ",
+        "definition": "Pruva direğinden sonra gelen direk üzerine açılan yan yelkenin sereni."
+      },
+      {
+        "id": "velena",
+        "slug": "velena",
+        "term": "VELENA",
+        "definition": "Direkler arasındaki istrelyalar üzerine açılan üçgen şeklindeki yelkenler."
+      },
+      {
+        "id": "vento",
+        "slug": "vento",
+        "term": "VENTO",
+        "definition": "Bumbaları ve mataforaları bir taraftan diğer tarafa dirisa edebilmek ve sabit tutabilmek için cundalarından alınan halatlar. Bu halatlar gerekirse palangalara da bağlanır."
+      },
+      {
+        "id": "vinc",
+        "slug": "vinc",
+        "term": "VİNÇ",
+        "definition": "Gemiye yük alıp vermede kullanılan, ambar ağızlarına yakın olarak konmuş hidrolik - elektirk veya istimle açılan makineler."
+      },
+      {
+        "id": "vira",
+        "slug": "vira",
+        "term": "VİRA",
+        "definition": "Vidayı, cıvatayı, ırgat veya vinci çevirmek sarma yönünde verilen komut."
+      },
+      {
+        "id": "viya",
+        "slug": "viya",
+        "term": "VİYA",
+        "definition": "Gemiyi veya tekneyi istenilen rotaya döndükten sonra, istenilen yöne seyredilmesi için verilen komut."
+      },
+      {
+        "id": "",
+        "slug": "",
+        "term": "VOLTA",
+        "definition": "Bir halatın babaya veya biteye bir kez dolaştırmak."
+      },
+      {
+        "id": "voltaAlmak",
+        "slug": "voltaAlmak",
+        "term": "VOLTA ALMAK",
+        "definition": "Halatın veya demir zincirinin biribirine dolaşması."
+      },
+      {
+        "id": "yaka",
+        "slug": "yaka",
+        "term": "YAKA",
+        "definition": "Yelkenlerin köşelerine ve yakalarına denir."
+      },
+      {
+        "id": "yakamoz",
+        "slug": "yakamoz",
+        "term": "YAKAMOZ",
+        "definition": "Su içinde ışık biriktirebilen tekhücrelilerin total yansıma halinde ışıldaması."
+      },
+      {
+        "id": "yalpa",
+        "slug": "yalpa",
+        "term": "YALPA",
+        "definition": "Denizlerin bordalar istikametinden gelmesi sonucunda geminin kemereleri istikametinde hareket etmesi."
+      },
+      {
+        "id": "yalpaOmurgasi",
+        "slug": "yalpaOmurgasi",
+        "term": "YALPA OMURGASI:",
+        "definition": "Gemilerin yalpalamasını önlemek maksadıyla sintine dönümüne yakın dış kaplamaya dikey olarak onulmuş, baş ve kıç istikametinde uzayan kanat şeklinde çıkıntılar."
+      },
+      {
+        "id": "yanYelkenler",
+        "slug": "yanYelkenler",
+        "term": "YAN YELKENLER",
+        "definition": "Yarım serenler ve gizler üzerine açılan yelkenler ile flok ve valenalar."
+      },
+      {
+        "id": "yarimoturmak",
+        "slug": "yarimoturmak",
+        "term": "YARIMOTURAK",
+        "definition": "Kürek çekerken ayak dayanılan ağaç puntal yatay."
+      },
+      {
+        "id": "yaslamak",
+        "slug": "yaslamak",
+        "term": "YASLAMAK",
+        "definition": "Bir teknenin harket kabiliyetini kaybederek, akıntı veya rüzgar etkisi ile bir rıhtıma veya başka bir tekne üzerine düşmesi."
+      },
+      {
+        "id": "yeke",
+        "slug": "yeke",
+        "term": "YEKE",
+        "definition": "Dümen başına takılıp dümenin istenilen tarafa basılması için kullanılan demir veya ağaçtan yapılmış kol."
+      },
+      {
+        "id": "yelpaze",
+        "slug": "yelpaze",
+        "term": "YELPAZE",
+        "definition": "Dümenin su içindeki en geniş kısmı."
+      },
+      {
+        "id": "yoma",
+        "slug": "yoma",
+        "term": "YOMA",
+        "definition": "Genellikle kalın halatlara denir."
+      },
+      {
+        "id": "yurya",
+        "slug": "yurya",
+        "term": "YÜRYA",
+        "definition": "Bir palanganın tirentisini veya bir halatın elle çekerken üzerine yatarka mola vermeksizin çekmek."
+      },
+      {
+        "id": "zahiriRuzgar",
+        "slug": "zahiriRuzgar",
+        "term": "ZAHİRİ RÜZGAR",
+        "definition": "Hakiki rüzgarın sıfır olduğu bir ortamda hareketin aksine bir rüzgar oluşur. Seyir halindeki bir geminin hareketiyle oluşan böyle rüzgara geminin rüzgarı denir. Geminin rüzgarı ile hakiki rüzgarın bileşimi ile oluşan ve gemide hissedilen rüzgara da (ZAHİRİ RÜZGAR) denir."
+      },
+      {
+        "id": "zirhGuverte",
+        "slug": "zirhGuverte",
+        "term": "ZIRH GÜVERTE",
+        "definition": "Savaş gemilerinde kazan, makine, cephanelik gibi önemli yerlerin üzerine döşenen zırhtan güvertelere denir."
+      },
+      {
+        "id": "zincir",
+        "slug": "zincir",
+        "term": "ZİNCİR",
+        "definition": "Baklaların birbirine eklenmesi suretiyle meydana gelen ve çeşitli maksatlar için kullanılan çekme gücü kuvvetli madeni halkalar dizisi."
+      },
+      {
+        "id": "zincirKaloma",
+        "slug": "zincirKaloma",
+        "term": "ZİNCİR KALOMA",
+        "definition": "Demir üzerinde bulunan gemilerin denizde bulunan zincir miktarına denir. Kaloma, demir mevki'ine göre verilir. Bu da genel olarak çok derin olan yerlerde derinliğin beş misl, pek derin olmayan yerlerde derinliğin üç misli olarak kabul edilmiştir. Bu ölçülerde verilen kalomaya Tam Kaloma, az olana Kısa Kaloma denilir."
+      },
+      {
+        "id": "zincirisalyaEtmek",
+        "slug": "zincirisalyaEtmek",
+        "term": "ZİNCİRİSALYA ETMEK",
+        "definition": "Demirleme zincirini ırgat üzerinden kurtarıp güverteye salya etmeye denir. Uzun zaman zincirlikte duran zincirlere ve zincirliğe bakım için bu usul yapılır."
+      },
+      {
+        "id": "zincirlik",
+        "slug": "zincirlik",
+        "term": "ZİNCİRLİK",
+        "definition": "Demir zincirinin bulunduğu sintineye yakın bölmedir."
+      },
+      {
+        "id": "zoka",
+        "slug": "zoka",
+        "term": "ZOKA",
+        "definition": "Uç tarafında sarımsak dilimi biçiminde kurşun bulunanan bir çeşit balık iğinesi olta."
+      }
+    ]
+  }

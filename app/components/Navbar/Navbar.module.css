@@ -1,0 +1,336 @@
+.nav {
+  position: fixed;
+  inset: 0 0 auto 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.25rem 2rem;
+  z-index: 100;
+  font: var(--font-inter);
+
+  transition: all 0.3s ease;
+}
+
+.transparent {
+  background: transparent;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.sticky {
+  background: rgba(7,18,31,.55);
+  backdrop-filter: blur(22px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 40px rgba(0,0,0,.18);
+}
+  
+  .navToggler {
+    width: 42px;
+    height: 42px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 6px;
+  
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .navToggler span {
+    width: 100%;
+    height: 1.5px;
+  
+    background: rgba(255,255,255,0.9);
+  
+    transition: transform 0.4s ease,
+                opacity 0.3s ease;
+  }
+  
+  .open span:first-child {
+    transform: translateY(7px) rotate(45deg);
+  }
+  
+  .open span:last-child {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+  
+  .navContent {
+    position: fixed;
+    inset: 0;
+  
+    z-index: 50;
+  
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  
+    transition:
+      opacity 0.4s ease,
+      visibility 0.4s ease;
+  }
+  .active {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+  
+  .navBg {
+    position: absolute;
+    inset: 0;
+    transform: scaleY(0);
+    transform-origin: top;
+    will-change: transform;
+    filter: blur(0px);
+  }
+  
+  .navBg:nth-child(1) {
+    background: radial-gradient(
+      circle at top,
+      #0b1d33 0%,
+      #050b18 60%
+    );
+  }
+  
+  .navBg:nth-child(2) {
+    background: linear-gradient(180deg, #071a2e, #050b18);
+    opacity: 0.9;
+  }
+  
+  .navBg:nth-child(3) {
+    background: radial-gradient(
+      circle at bottom,
+      rgba(77, 124, 255, 0.15),
+      transparent
+    );
+  }
+  
+  .navBg:nth-child(4) {
+    background: radial-gradient(
+      circle at center,
+      rgba(60, 240, 255, 0.08),
+      transparent
+    );
+  }
+
+  /* .navItems {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    text-align: center;
+    gap: 2.5rem;
+    will-change: transform;
+    backdrop-filter: blur(6px);
+  } */
+  .navItems {
+    width: 100%;
+    height: 100%;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    gap: 2rem;
+  }
+  
+  .navMainRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .activeLink{
+
+    color:white;
+    
+    text-shadow:
+    0 0 15px rgba(60,240,255,.4);
+    
+    }
+  .arrow {
+    background: transparent;
+    border: none;
+  
+    color: rgba(255,255,255,0.6);
+  
+    cursor: pointer;
+  
+    transition: transform 0.35s ease,
+                opacity 0.3s ease;
+  }
+
+  .arrowOpen{
+    transform:rotate(180deg);
+    }
+
+  .navSubMenu {
+    overflow: hidden;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+  
+  .navSubMenu a {
+    font-size: 1rem;
+  
+    color: rgba(255,255,255,0.5);
+  
+    transition: opacity 0.3s ease;
+  }
+  .navSubMenu a:hover {
+    opacity: 0.8;
+  }
+
+.navItemWrapper {
+  overflow: hidden;
+}
+
+.navMainLink {
+    font-size: clamp(2rem, 4vw, 4.5rem);
+    font-weight: 500;
+  
+    color: rgba(255,255,255,0.92);
+  
+    letter-spacing: -0.03em;
+    line-height: 1;
+  
+    transition: opacity 0.3s ease,
+                transform 0.3s ease;
+  }
+  .navMainLink:hover {
+    opacity: 0.65;
+  }
+
+  .navMainLink::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: -10px;
+    width: 0%;
+    height: 2px;
+    background: linear-gradient(90deg, #3cf0ff, #4d7cff);
+    transform: translateX(-50%);
+    transition: width 0.4s ease;
+  }
+  
+  .navMainLink:hover::after {
+    width: 60%;
+  }
+
+/* .navMainLink:hover {
+    color: #E67E22;
+    text-shadow: 0 0 20px rgba(60, 240, 255, 0.4);
+  } */
+
+  .navSocials a,
+.navPrimary a {
+  display: block;
+  color: white;
+  opacity: 0;   /* GSAP açacak */
+  transform: translateY(20px);
+}
+
+/* .hoverLink {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+  
+    font-size: clamp(2.5rem, 5vw, 5rem);
+    font-weight: 500;
+    color: #EAF2FF;
+    letter-spacing: -0.03em;
+  } */
+  .hoverLink {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+  }
+
+  .text,
+  .textHover {
+    display: block;
+    line-height: 1.1;
+    transition: transform .55s cubic-bezier(.22,1,.36,1);
+  }
+
+  .textHover {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    
+  
+    transition: transform 0.3s ease;
+    
+  }
+
+  .hoverLink:hover .text {
+    transform: translateY(-100%);
+  }
+  
+  .hoverLink:hover .textHover {
+    transform: translateY(-100%);
+  }
+
+  /* .subHoverLink {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+  
+    font-size: clamp(1.2rem, 1.8vw, 1.8rem);
+    color: rgba(234, 242, 255, 0.6);
+  } */
+  .subHoverLink {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+  }
+
+  .subText,
+.subTextHover {
+  display: block;
+  line-height: 1.2;
+  transition: transform 0.4s ease;
+}
+
+.subTextHover {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    
+  }
+
+  .subHoverLink:hover .subText {
+    transform: translateY(-100%);
+  }
+  
+  .subHoverLink:hover .subTextHover {
+    transform: translateY(-100%);
+  }
+
+  .navSubLink {
+    font-size: 1rem;
+    color: rgba(255,255,255,0.55);
+    letter-spacing: -0.01em;
+  }
+
+  .hidden {
+    pointer-events: none;
+    visibility: hidden;
+  }
+  
+  .active {
+    pointer-events: auto;
+    visibility: visible;
+  }

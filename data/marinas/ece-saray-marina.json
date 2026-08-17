@@ -1,0 +1,177 @@
+{
+    "id": "ece-saray-marina",
+    "slug": "ece-saray-marina",
+    "rating":4.7,
+  
+    "name": "Ece Saray Marina",
+  
+    "regionId": "ege",
+    "cityId": "mugla",
+    "districtId":"fethiye",
+  
+    "coordinates": {
+      "lat": 36.622667730838,
+      "lng": 29.102978109497936
+    },
+
+    "contact": {
+      "phone": "+90 (252) 612 88 29",
+      "email": "marina@ecemarina.com",
+      "website": "https://ecemarina.com",
+      "vhfChannel": "73 - ECE MARINA"
+    },
+
+ 
+  
+    "media": {
+      "logo": "/images/topmarinas/marmaris.jpg",
+      "coverImage": "/images/topmarinas/marmaris.jpg",
+  
+      "gallery": [
+        "/images/marinas/ece-saray.jpg",
+        "/images/ece_saray/1.jpeg",
+        "/images/ece_saray/2.jpeg",
+        "/images/ece_saray/3.webp",
+        "/images/ece_saray/4.jpeg",
+        "/images/ece_saray/5.webp"
+        
+      ],
+  
+      "sitePlan": "/assets/images/Ece_Saray/ece_saray_marina_yerlesim_plani.jpeg"
+    },
+  
+    "capacity": {
+      "seaBerth": 460,
+      "landBerth": null,
+      "maxBoatLength": 60,
+      "depth": "6-12m"
+    },
+  
+    "facilities": [
+      "wc",
+      "shower",
+      "parking",
+      "first_aid",
+      "restaurant",
+      "laundry",
+      "atm",
+      "dishwashing",
+      "hotel",
+      "storage",
+      "bar",
+      "entertainment",
+      "pool"
+    ],
+  
+    "amenities": [
+      "electricity",
+      "wifi",
+      "water",
+      "fuel",
+      "mooring",
+      "security",
+      "recycling",
+      "transit_log",
+      "boat_rental",
+      "waste_collection",
+      "car_rental",
+      "fire_suppression",
+      "blue_card",
+      "repair",
+      "mobile_crane",
+      "diving_service",
+      "haul_out"
+    ],
+  
+    
+  
+    "description": [
+      "Fethiye Körfezi’nin masmavi kıyılarında yer alan Ece Saray Marina, tarih, doğa ve denizi bir araya getiren özel bir konuma sahiptir.",
+      "Havadan, karadan ve denizden ulaşılabilen marina, sunduğu yüksek standartlı hizmetlerle öne çıkar.",
+      "Oteli, havuzu, barları, restoranları ve SPA & Wellness merkezi ile tam donanımlı bir yaşam alanı sunar."
+    ],
+  
+    "summary": "Fethiye Körfezi’nde yer alan Ece Saray Marina, konumu, tesisleri ve hizmet kalitesi ile öne çıkan tam donanımlı bir marinadır.",
+  
+    "tags": [
+      "fethiye",
+      "ege",
+      "luxury-marina",
+      "hotel-marina",
+      "blue-cruise"
+    ],
+
+    "categories": [
+      "family",
+      "charter",
+      "beginner"
+    ],
+    "aiTags": [
+      "family",
+      "couple",
+      "luxury",
+      "nature",
+      "sailing",
+      "quiet"
+    ],
+
+    "nearbyBays": [
+      "Fethiye Körfezi",
+      "Göcek Adaları (yakın bölge erişimi)",
+      "Kızılada",
+      "Şövalye Adası"
+    ],
+
+    "nearbyAttractions": [
+      "Fethiye Çarşı",
+      "Paspatur (Eski Şehir)",
+      "Ölüdeniz",
+      "Kelebekler Vadisi",
+      "Likya Yolu"
+    ],
+
+    "blueFlag": true,
+
+    "petFriendly": true,
+
+    "customsClearance": true,
+
+    "charterAvailable": true,
+
+    "winterStorageAvailable": true,
+
+    
+
+    "nearestAirport": "Dalaman Airport",
+
+    "airportDistance": 50,
+
+    "recommendedFor": {
+      "beginner": true,
+      "family": true,
+      "couples": true,
+      "longStay": true,
+      "superyacht": true,
+      "liveaboard": true
+    },
+
+    "scores": {
+      "luxury": 88,
+      "family": 90,
+      "nightlife": 75,
+      "nature": 85,
+      "sailing": 82,
+      "technical": 78,
+      "naturalBeauty": 92,
+      "windProtection": 85
+    },
+
+    "relatedEvents": [
+      "Fethiye Sailing Cup",
+      "Blue Cruise Departure Events",
+      "Fethiye Marina Summer Regatta"
+    ]
+  }
+
+
+ 

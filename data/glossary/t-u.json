@@ -1,0 +1,102 @@
+{
+    "id": "t-u",
+    "letter": "T-U",
+    "terms": [
+      {
+        "id": "talvakHatti",
+        "slug": "talvakHatti",
+        "term": "TALVEK HATTI",
+        "definition": "Boğazlarda ortadan geçtiği varsayılan hat."
+      },
+      {
+        "id": "tarakGemisi",
+        "slug": "tarakGemisi",
+        "term": "TARAK GEMİSİ",
+        "definition": "Limanları ve geçitleri derinleştirmek için kepçeli olarak yapılmış özel gemi."
+      },
+      {
+        "id": "tava",
+        "slug": "tava",
+        "term": "TAVA",
+        "definition": "Borda iskelelerinin altında ve üstünde durulacak yer İskele tavası."
+      },
+      {
+        "id": "tavlonGuverete",
+        "slug": "tavlonGuverete",
+        "term": "TAVLON GÜVERTE",
+        "definition": "Çok güverteli gemilerin üsten itibaren aşağıya doğru beşinci güvertesi. Eski harp gemilerine ait bir güverte katı."
+      },
+      {
+        "id": "tayfa",
+        "slug": "tayfa",
+        "term": "TAYFA",
+        "definition": "Ticaret gemilerindeki gemiciler."
+      },
+      {
+        "id": "tente",
+        "slug": "tente",
+        "term": "TENTE",
+        "definition": "Güverteyi yağmur ve güneşten korumak için güverte üzeriene açılan branda veya başka bir malzememden yapılmış örtü."
+      },
+      {
+        "id": "tenteOmurgasi",
+        "slug": "tenteOmurgasi",
+        "term": "TENTE OMURGASI",
+        "definition": "Tentenin orta kısmına ve altına konulan ağaç."
+      },
+      {
+        "id": "tersane",
+        "slug": "tersane",
+        "term": "TERSANE",
+        "definition": "Gemi yapılan fabrika, tezgah veya sanayi merkezi."
+      },
+      {
+        "id": "tirnak",
+        "slug": "tirnak",
+        "term": "TIRNAK",
+        "definition": "Demirin kollarının ucundaki tırnak şeklindeki kısım."
+      },
+      {
+        "id": "tirenti",
+        "slug": "tirenti",
+        "term": "TİRENTİ",
+        "definition": "Bir halatın çekilen çıması."
+      },
+      {
+        "id": "tokaEtmek",
+        "slug": "tokaEtmek",
+        "term": "TOKA ETMEK",
+        "definition": "Bir şeyi yerine kadar kaldırmak Sancak toka etmek, işaret toka."
+      },
+      {
+        "id": "tramola",
+        "slug": "tramola",
+        "term": "TRAMOLA",
+        "definition": "Yelkenle seyirde rüzgarın bir kontradan diğer kontraya önce pruvanın geçmesi ile yapılan dönüş."
+      },
+      {
+        "id": "uckurluk",
+        "slug": "uckurluk",
+        "term": "UÇKURLUK",
+        "definition": "Bir sancağın direk veya rüzgar üstü tarafındaki yakasındaki takviye edilmesi için geçirilen beyaz renkli şerit."
+      },
+      {
+        "id": "uskuna",
+        "slug": "uskuna",
+        "term": "USKUNA",
+        "definition": "Pruva direği kabasorta armalı, grandi direği sübye armalı iki direkli yelkenli tekne."
+      },
+      {
+        "id": "usturmaca",
+        "slug": "usturmaca",
+        "term": "USTURMAÇA",
+        "definition": "Bir birinin üzerine veya rıhtıma yanaşan teknelerin bordalarının göçmemesi veya boyalarının bozulmaması için araya koydukları ağaç, lastik, plastik veya halatlardan yapılmış olan, balon, silindir biçimindeki yastık."
+      },
+      {
+        "id": "urtraniKaplama",
+        "slug": "urtraniKaplama",
+        "term": "URTRANI KAPLAMA",
+        "definition": "Ahsap diagonal (çapraz) kaplama."
+      }
+    ]
+  }

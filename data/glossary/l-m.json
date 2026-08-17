@@ -1,0 +1,157 @@
+{
+  "id": "l-m",
+  "letter": "L-M",
+  "terms": [
+    {
+      "id": "lacka",
+      "slug": "lacka",
+      "term": "LAÇKA",
+      "definition": "Boşver, boşalt, boşalmış gevşemiş anlamında."
+    },
+    {
+      "id": "lalehalati",
+      "slug": "lalehalati",
+      "term": "LALE HALATI",
+      "definition": "Dümenlerin denizli havalarda düşüp kaybolmaması için dümen yelpazesinden geçip teknenin kıçına bağlanan bir ince savlo."
+    },
+    {
+      "id": "larmo",
+      "slug": "larmo",
+      "term": "LARMO",
+      "definition": "Flokların açıldığı istralya."
+    },
+    {
+      "id": "lavaetmek",
+      "slug": "lavaetmek",
+      "term": "LAVA ETMEK",
+      "definition": "Boş al ve ger anlamında bir emir."
+    },
+    {
+      "id": "lavradeligi",
+      "slug": "lavradeligi",
+      "term": "LAVRA DELİĞİ",
+      "definition": "Bir teknenin içindeki suyu askıya alıp boşaltmak için açılmış delik."
+    },
+    {
+      "id": "lif",
+      "slug": "lif",
+      "term": "LİF",
+      "definition": "Nebati halatın yapıldığı malzemenin en ince parçası"
+    },
+    {
+      "id": "ligacamadan",
+      "slug": "ligacamadan",
+      "term": "LİGA CAMADAN",
+      "definition": "Yelkeni küçült, camadana vur demektir."
+    },
+    {
+      "id": "limbo",
+      "slug": "limbo",
+      "term": "LİMBO",
+      "definition": "Bir şeyin bir taraftan diğer tarfa aktarılması. "
+    },
+    {
+      "id": "livar",
+      "slug": "livar",
+      "term": "LİVAR",
+      "definition": "Balıkçı teknesinde balıkların taze kalması için alt tarafı denizle ilgili tahta havuz."
+    },
+    {
+      "id": "loca",
+      "slug": "loca",
+      "term": "LOÇA",
+      "definition": "Demir zincirinin akması için açılmış deliklere geçirilmiş madeni oluk."
+    },
+    {
+      "id": "lokma",
+      "slug": "lokma",
+      "term": "LOKMA",
+      "definition": "Zincirin baklalarının ortasına takviye için konmuş parça."
+    },
+    {
+      "id": "lumbaragzi",
+      "slug": "lumbaragzi",
+      "term": "LUMBARA AĞIZI",
+      "definition": "Gemilerin sancak ve iskele taraflarında bulunan borda iskelelerinin üst tavanlarının bulunduğu yer hizasındaki güverte kısmı."
+    },
+    {
+      "id": "lumbuz",
+      "slug": "lumbuz",
+      "term": "LUMBUZ",
+      "definition": "Gemilerin iç kısımlarını aydınlatmak için bordalara ve güvertelere açılmış olan yuvarlak delikler. "
+    },
+    {
+      "id": "manika",
+      "slug": "manika",
+      "term": "MANİKA",
+      "definition": "Bir teknenin alt kısımlarına güverteden aşağıya doğru havalandırma için konulan geniş boru."
+    },
+    {
+      "id": "mapa",
+      "slug": "mapa",
+      "term": "MAPA",
+      "definition": "Sabit halka."
+    },
+    {
+      "id": "martindemiri",
+      "slug": "martindemiri",
+      "term": "MARTİN DEMİRİ",
+      "definition": "Çipo ve kolları aynı düzeyde ve kolları da beden etrafında dönebilen bir sistemdeki demirdir."
+    },
+    {
+      "id": "mastalya",
+      "slug": "mastalya",
+      "term": "MASTALYA",
+      "definition": "Tahta leğen."
+    },
+    {
+      "id": "mastoripostasi",
+      "slug": "mastoripostasi",
+      "term": "MASTORİ POSTASI",
+      "definition": "Bir teknedeki en geniş posta."
+    },
+    {
+      "id": "matafora",
+      "slug": "matafora",
+      "term": "MATAFORA",
+      "definition": "Teknelerde veya sahilde filika veya botların asılabilmesi için uçlarında palanga bulunan aygıt."
+    },
+    {
+      "id": "matafyon",
+      "slug": "matafyon",
+      "term": "MATAFYON",
+      "definition": "Yelken ve tentelerin delik açıldığında yırtılmaması için delik etrafının takviye edildiğialeminyum veya halat yassı halka."
+    },
+    {
+      "id": "maynaetmek",
+      "slug": "maynaetmek",
+      "term": "MAYNA ETMEK",
+      "definition": "Ağır ağır aşağı indirmek"
+    },
+    {
+      "id": "meme",
+      "slug": "meme",
+      "term": "MEME",
+      "definition": "Demir kollarının demir bedenine birleştiği noktanın alt kısmı."
+    },
+    {
+      "id": "mezestre",
+      "slug": "mezestre",
+      "term": "MEZESTRE",
+      "definition": "Yarıya kadar indirmek."
+    },
+    {
+      "id": "mil",
+      "slug": "mil",
+      "term": "MİL (Deniz Mili)",
+      "definition": "Denizdeki uzunluk ölçüsü. (6080 feet = 1852 mt)"
+    },
+    {
+      "id": "mizanadiregi",
+      "slug": "mizanadiregi",
+      "term": "MİZANA DİREĞİ",
+      "definition": "3 direkli bir yelkenli gemide en kıçtaki direktir."
+    }
+    
+  ]
+}

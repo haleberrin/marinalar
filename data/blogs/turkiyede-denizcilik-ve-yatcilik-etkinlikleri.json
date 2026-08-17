@@ -1,0 +1,31 @@
+{
+    "id": "blog-5",
+    "slug": "turkiyede-denizcilik-etkinlikleri",
+    "title": "Türkiye'de Düzenlenen Denizcilik ve Yatçılık Etkinlikleri",
+    "excerpt": "Yat fuarları, yelken yarışları ve marina festivalleri hakkında genel rehber.",
+    "metaTitle": "Denizcilik Etkinlikleri Türkiye",
+    "metaDescription": "Türkiye'de düzenlenen yat fuarları, yarışlar ve denizcilik etkinlikleri hakkında bilgi.",
+    "featuredImage": "/images/HeroSlider3.jpg",
+    "author": "Marina Guide",
+    "publishedAt": "2026-01-22",
+    "readingTime": 6,
+    "tags": ["etkinlik", "yat", "festival", "denizcilik"],
+    "relatedMarinas": ["yalikavak-marina", "ece-saray-marina"],
+    "category": "Denizcilik Etkinlikleri",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Neden Takip Etmelisiniz?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Yeni yat modelleri",
+          "Deniz ekipmanları",
+          "Networking fırsatları",
+          "Sosyal etkinlikler"
+        ]
+      }
+    ]
+  }

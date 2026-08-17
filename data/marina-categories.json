@@ -1,0 +1,472 @@
+[
+  {
+    "slug": "luxury",
+    "title": "Lüks Marinalar",
+    "shortDescription": "Premium hizmetler ve üst düzey marina deneyimi",
+
+    "description": "Türkiye'nin en prestijli marinalarını keşfedin. Mega yat altyapısı, concierge hizmetleri, özel restoranlar, yüksek güvenlik ve dünya standartlarında marina olanakları sunan lüks marinaları inceleyin.",
+
+    "heroTitle": "Türkiye'nin En Lüks Marinaları",
+
+    "heroSubtitle": "Premium hizmetler, dünya standartlarında tesisler ve unutulmaz marina deneyimleri.",
+
+    "icon": "mdi:crown",
+
+    "image": "/images/categories/luxury.jpg",
+
+    "coverImage": "/images/categories/luxury-hero.jpg",
+
+    "color": "#C89B3C",
+
+    "seo": {
+      "title": "Lüks Marinalar | Türkiye Marina Rehberi",
+      "description": "Türkiye'nin en prestijli lüks marinalarını keşfedin. Mega yat hizmetleri, premium olanaklar ve marina rehberi."
+    },
+
+    "highlights": [
+      "VIP Concierge",
+      "Mega Yacht Berth",
+      "Premium Restoranlar",
+      "24 Saat Güvenlik",
+      "Yakıt İstasyonu",
+      "Teknik Servis"
+    ],
+    "badge":"Luxury",
+
+    "faq": [
+      {
+        "question": "Lüks marina nedir?",
+        "answer": "Lüks marinalar; premium hizmetler, yüksek güvenlik, geniş bağlama kapasitesi ve üst düzey sosyal olanaklar sunan marinalardır. Genellikle restoranlar, concierge hizmetleri, bakım alanları ve VIP imkanlarıyla öne çıkar."
+      },
+      {
+        "question": "Türkiye'deki en iyi lüks marinalar hangileridir?",
+        "answer": "Göcek, Bodrum, Yalıkavak ve Marmaris bölgesindeki birçok marina sunduğu hizmet kalitesi, konumu ve altyapısıyla Türkiye'nin önde gelen lüks marinaları arasında yer alır."
+      },
+      {
+        "question": "Lüks marinalarda mega yat kabul edilir mi?",
+        "answer": "Birçok lüks marina uzun iskeleleri, derin su yapısı ve teknik altyapısı sayesinde büyük ve mega yatlara hizmet verebilir."
+      },
+      {
+        "question": "Rezervasyon yapmak gerekli midir?",
+        "answer": "Yaz sezonunda yoğunluk yaşandığından önceden rezervasyon yapılması tavsiye edilir."
+      },
+      {
+        "question": "Lüks marinalarda hangi hizmetler bulunur?",
+        "answer": "Yakıt, elektrik, su, Wi-Fi, güvenlik, restoranlar, teknik servis, concierge, market ve bakım hizmetleri gibi birçok imkan sunulmaktadır."
+      }
+    ]
+  },
+
+  {
+    "slug": "family",
+    "title": "Aile Dostu Marinalar",
+
+    "shortDescription": "Aileler için güvenli ve konforlu marinalar",
+
+    "description": "Çocuklu aileler için güvenli plajlara, yürüyüş alanlarına ve sosyal yaşam olanaklarına sahip marinaları keşfedin.",
+
+    "heroTitle": "Aile Dostu Marinalar",
+
+    "heroSubtitle": "Güvenli, huzurlu ve aile tatili için ideal marinalar.",
+
+    "icon": "mdi:account-group",
+
+    "image": "/images/categories/family.jpg",
+
+    "coverImage": "/images/categories/family-hero.jpg",
+
+    "color": "#4CAF50",
+
+    "seo": {
+      "title": "Aile Dostu Marinalar | Türkiye Marina Rehberi",
+      "description": "Aileler için uygun marinaları keşfedin."
+    },
+
+    "highlights": [
+      "Çocuk dostu sosyal alanlar",
+      "Güvenli bağlama imkanı",
+      "Restoran ve marketlere yakınlık",
+      "Temiz duş ve tuvaletler",
+      "Sakin marina atmosferi"
+    ],
+
+    "badge":"Family",
+
+    "faq": [
+      {
+        "question": "Aile dostu marina nedir?",
+        "answer": "Aile dostu marinalar güvenli yürüyüş alanları, restoranlar, sosyal imkanlar ve çocuklu ailelerin rahat vakit geçirebileceği ortamlar sunan marinalardır."
+      },
+      {
+        "question": "Çocuklar için güvenli midir?",
+        "answer": "Birçok aile dostu marina güvenlik kameraları, kontrollü girişler ve düzenli personel sayesinde güvenli bir ortam sunar."
+      },
+      {
+        "question": "Restoran ve market bulunur mu?",
+        "answer": "Bu kategorideki marinaların büyük bölümünde restoranlar, kafeler ve temel ihtiyaçların karşılanabileceği marketler yer alır."
+      },
+      {
+        "question": "Çocuklar için sosyal alanlar var mı?",
+        "answer": "Bazı marinalarda çocuk oyun alanları, yürüyüş yolları ve ailelerin birlikte vakit geçirebileceği sosyal alanlar bulunmaktadır."
+      },
+      {
+        "question": "Aile tatili için hangi marinalar önerilir?",
+        "answer": "Geniş sosyal imkanlara ve güvenli altyapıya sahip Göcek, Marmaris ve Bodrum bölgesindeki birçok marina aile tatilleri için tercih edilmektedir."
+      }
+    ]
+  },
+
+  {
+    "slug": "beginner",
+    "title": "Yeni Başlayanlar",
+
+    "shortDescription": "İlk denizcilik deneyimi için uygun marinalar",
+
+    "description": "İlk kez tekne kullanacaklar ve yeni başlayan denizciler için kolay ulaşılabilir, güvenli marinalar.",
+
+    "heroTitle": "Yeni Başlayanlar İçin Marinalar",
+
+    "heroSubtitle": "Denizcilik yolculuğunuza güvenle başlayın.",
+
+    "icon": "mdi:sail-boat",
+
+    "image": "/images/categories/beginner.jpg",
+
+    "coverImage": "/images/categories/beginner-hero.jpg",
+
+    "color": "#2196F3",
+
+    "seo": {
+      "title": "Yeni Başlayanlar İçin Marinalar",
+      "description": "Denizciliğe yeni başlayanlar için en uygun marinalar."
+    },
+
+    "highlights": [
+      "Kolay manevra alanları",
+      "Temel teknik destek",
+      "Yakıt ve su hizmetleri",
+      "Yeni başlayanlar için uygun yapı",
+      "Güvenli bağlama noktaları"
+    ],
+    "badge":"Beginner",
+
+    "faq": [
+      {
+        "question": "Yeni başlayanlar için marina seçerken nelere dikkat edilmelidir?",
+        "answer": "Bağlama kolaylığı, güvenli giriş çıkış, teknik destek ve eğitim imkanları bulunan marinalar yeni başlayanlar için daha uygundur."
+      },
+      {
+        "question": "İlk tekne deneyimi için hangi marinalar uygundur?",
+        "answer": "Korunaklı koylarda bulunan ve sakin deniz koşullarına sahip marinalar başlangıç seviyesindeki denizciler için önerilir."
+      },
+      {
+        "question": "Marinalarda eğitim alınabilir mi?",
+        "answer": "Bazı marinalarda yelken okulları ve temel denizcilik eğitimleri sunulmaktadır."
+      },
+      {
+        "question": "Tekne bağlama konusunda destek veriliyor mu?",
+        "answer": "Birçok marina personeli yanaşma ve palamar işlemlerinde destek sağlamaktadır."
+      },
+      {
+        "question": "Yeni başlayanlar için marina rezervasyonu gerekli mi?",
+        "answer": "Yoğun sezonda önceden rezervasyon yapmak yer bulma açısından avantaj sağlar."
+      }
+    ]
+  },
+
+  {
+    "slug": "nightlife",
+    "title": "Gece Hayatı",
+
+    "shortDescription": "Restoranlar ve etkinliklere yakın marinalar",
+
+    "description": "Marina çevresindeki restoranlar, beach club'lar, festivaller ve canlı gece hayatına yakın marinaları keşfedin.",
+
+    "heroTitle": "Gece Hayatı Yakınındaki Marinalar",
+
+    "heroSubtitle": "Sosyal yaşamın merkezindeki marinalar.",
+
+    "icon": "mdi:party-popper",
+
+    "image": "/images/categories/nightlife.jpg",
+
+    "coverImage": "/images/categories/nightlife-hero.jpg",
+
+    "color": "#E91E63",
+
+    "seo": {
+      "title": "Gece Hayatı Marinaları",
+      "description": "Restoranlara ve eğlence merkezlerine yakın marinalar."
+    },
+
+    "highlights": [
+      "Gece hayatına yakın",
+      "Marina restoranları",
+      "Bar ve kafeler",
+      "Yürüyüş alanları",
+      "Canlı sosyal yaşam"
+    ],
+
+    "badge":"Nightlife",
+
+    "faq": [
+      {
+        "question": "Gece hayatına yakın marinalar hangileridir?",
+        "answer": "Bodrum, Marmaris, Çeşme ve Göcek gibi bölgelerdeki marinalar canlı gece hayatına kolay erişim sunmaktadır."
+      },
+      {
+        "question": "Marina çevresinde restoran ve bar bulunur mu?",
+        "answer": "Bu kategorideki marinaların çoğunda restoranlar, beach club'lar, kafeler ve eğlence mekanları bulunmaktadır."
+      },
+      {
+        "question": "Tekneyle gece geç saatlerde dönüş yapılabilir mi?",
+        "answer": "Marinaların giriş kuralları farklılık gösterebilir. Liman yönetiminin kurallarına göre hareket edilmelidir."
+      },
+      {
+        "question": "Gece güvenliği nasıldır?",
+        "answer": "Modern marinalarda 24 saat güvenlik ve kamera sistemleri bulunmaktadır."
+      },
+      {
+        "question": "Yürüyerek şehir merkezine ulaşılabilir mi?",
+        "answer": "Birçok şehir marinası eğlence ve alışveriş bölgelerine yürüme mesafesindedir."
+      }
+    ]
+
+  },
+
+  {
+    "slug": "mega_yacht",
+    "title": "Mega Yat Marinaları",
+
+    "shortDescription": "Süper yatlar için uygun kapasite ve hizmetler",
+
+    "description": "Mega yatlar için uzun iskeleler, yüksek draft kapasitesi ve profesyonel marina hizmetleri sunan marinalar.",
+
+    "heroTitle": "Mega Yat Marinaları",
+
+    "heroSubtitle": "Süper yatlara özel marina altyapısı.",
+
+    "icon": "mdi:ferry",
+
+    "image": "/images/categories/megayacht.jpg",
+
+    "coverImage": "/images/categories/megayacht-hero.jpg",
+
+    "color": "#455A64",
+
+    "seo": {
+      "title": "Mega Yat Marinaları",
+      "description": "Türkiye'nin mega yat marinaları."
+    },
+
+    "highlights": [
+      "Mega yat kapasitesi",
+      "VIP concierge hizmetleri",
+      "Yüksek güvenlik",
+      "Helikopter transferi",
+      "Premium teknik servis"
+    ],
+
+    "badge":"Mega Yacht",
+
+    "faq": [
+      {
+        "question": "Mega yat marinası nedir?",
+        "answer": "Mega yat marinaları uzun bağlama alanları, yüksek draft kapasitesi ve büyük teknelere uygun teknik altyapı sunan marinalardır."
+      },
+      {
+        "question": "Kaç metreye kadar yat kabul edilir?",
+        "answer": "Her marinanın kapasitesi farklıdır. Bazıları 100 metreye yaklaşan süper yatlara hizmet verebilmektedir."
+      },
+      {
+        "question": "Mega yatlar için teknik servis bulunur mu?",
+        "answer": "Birçok mega yat marinasında bakım, vinç, yakıt ve teknik destek hizmetleri sunulmaktadır."
+      },
+      {
+        "question": "Mürettebat için imkanlar var mı?",
+        "answer": "Bazı marinalarda mürettebat dinlenme alanları, marketler ve sosyal tesisler bulunmaktadır."
+      },
+      {
+        "question": "Rezervasyon zorunlu mudur?",
+        "answer": "Mega yatlar için özellikle yaz sezonunda önceden rezervasyon yapılması tavsiye edilir."
+      }
+    ]
+  },
+
+  {
+    "slug": "eco",
+    "title": "Doğayla İç İçe",
+
+    "shortDescription": "Sessiz koylar ve doğal güzelliklerle çevrili marinalar",
+
+    "description": "Milli parklar, bakir koylar ve doğal güzelliklerle çevrili huzurlu marinaları keşfedin.",
+
+    "heroTitle": "Doğayla İç İçe Marinalar",
+
+    "heroSubtitle": "Yeşil ve mavinin buluştuğu marinalar.",
+
+    "icon": "mdi:pine-tree",
+
+    "image": "/images/categories/nature.jpg",
+
+    "coverImage": "/images/categories/nature-hero.jpg",
+
+    "color": "#2E7D32",
+
+    "seo": {
+      "title": "Doğayla İç İçe Marinalar",
+      "description": "Doğa severler için en güzel marinalar."
+    },
+
+    "highlights": [
+      "Doğal koylara yakın",
+      "Sessiz ortam",
+      "Çevre dostu uygulamalar",
+      "Yeşil marina anlayışı",
+      "Doğa yürüyüşü imkanları"
+    ],
+
+    "badge":"Eco",
+
+    "faq": [
+      {
+        "question": "Doğayla iç içe marina ne demektir?",
+        "answer": "Bu marinalar doğal koylara, ormanlık alanlara ve sakin çevrelere yakın konumlarıyla öne çıkar."
+      },
+      {
+        "question": "Sessiz koylara ulaşım kolay mıdır?",
+        "answer": "Birçok marina kısa seyir mesafesinde doğal koylara erişim imkanı sunmaktadır."
+      },
+      {
+        "question": "Çevre dostu uygulamalar bulunur mu?",
+        "answer": "Bazı marinalarda atık toplama sistemleri, geri dönüşüm ve çevre koruma uygulamaları yer almaktadır."
+      },
+      {
+        "question": "Kalabalıktan uzak rotalar bulunabilir mi?",
+        "answer": "Bu kategoride yer alan marinalar daha sakin seyir rotalarına başlangıç noktası olabilir."
+      },
+      {
+        "question": "Doğa yürüyüşleri yapılabilir mi?",
+        "answer": "Marinaların bulunduğu birçok bölgede yürüyüş parkurları ve doğal yaşam alanları bulunmaktadır."
+      }
+    ]
+  },
+
+  {
+    "slug": "charter",
+    "title": "Charter Merkezleri",
+
+    "shortDescription": "Tekne kiralama ve mavi yolculuk başlangıç noktaları",
+
+    "description": "Mavi yolculuk, günlük tekne kiralama ve charter şirketlerinin yoğun olduğu marinaları keşfedin.",
+
+    "heroTitle": "Charter Marinaları",
+
+    "heroSubtitle": "Mavi yolculuğun başlangıç noktaları.",
+
+    "icon": "mdi:anchor",
+
+    "image": "/images/categories/charter.jpg",
+
+    "coverImage": "/images/categories/charter-hero.jpg",
+
+    "color": "#0288D1",
+
+    "seo": {
+      "title": "Charter Marinaları",
+      "description": "Tekne kiralama için en iyi marinalar."
+    },
+
+    "highlights": [
+      "Charter şirketleri",
+      "Mavi yolculuk başlangıcı",
+      "Geniş filo seçenekleri",
+      "Transfer hizmetleri",
+      "Profesyonel ekip desteği"
+    ],
+
+    "badge":"Charter",
+
+    "faq": [
+      {
+        "question": "Charter marinası nedir?",
+        "answer": "Charter marinaları tekne kiralama şirketlerinin yoğun olarak faaliyet gösterdiği ve mavi yolculukların başladığı marinalardır."
+      },
+      {
+        "question": "Tekne kiralama yapılabilir mi?",
+        "answer": "Birçok charter marinasında günlük, haftalık veya uzun dönem tekne kiralama hizmetleri sunulmaktadır."
+      },
+      {
+        "question": "Mavi tur rotaları buradan başlar mı?",
+        "answer": "Göcek, Bodrum ve Marmaris gibi bölgeler Türkiye'nin en popüler mavi yolculuk başlangıç noktaları arasındadır."
+      },
+      {
+        "question": "Kaptanlı tekne kiralanabilir mi?",
+        "answer": "Birçok charter firması kaptanlı ve kaptansız kiralama seçenekleri sunmaktadır."
+      },
+      {
+        "question": "Rezervasyon ne zaman yapılmalıdır?",
+        "answer": "Yüksek sezonda tekne bulabilmek için rezervasyonların aylar öncesinden yapılması önerilir."
+      }
+    ]
+  },
+
+  {
+    "slug": "city",
+    "title": "Şehir Marinaları",
+
+    "shortDescription": "Şehir merkezine ve sosyal yaşama yakın marinalar",
+
+    "description": "Şehir merkezine yürüme mesafesinde, alışveriş, restoran ve kültürel etkinliklere yakın marinalar.",
+
+    "heroTitle": "Şehir Marinaları",
+
+    "heroSubtitle": "Şehrin kalbinde marina deneyimi.",
+
+    "icon": "mdi:city",
+
+    "image": "/images/categories/city.jpg",
+
+    "coverImage": "/images/categories/city-hero.jpg",
+
+    "color": "#607D8B",
+
+    "seo": {
+      "title": "Şehir Marinaları",
+      "description": "Şehir merkezine yakın marinalar."
+    },
+
+    "highlights": [
+      "Şehir merkezine yakın",
+      "Alışveriş imkanları",
+      "Toplu ulaşıma erişim",
+      "Restoran ve kafeler",
+      "Kültürel etkinlikler"
+    ],
+
+    "badge":"City",
+
+    "faq": [
+      {
+        "question": "Şehir marinası nedir?",
+        "answer": "Şehir marinaları alışveriş, restoranlar, oteller ve ulaşım ağlarına yakın konumda bulunan marinalardır."
+      },
+      {
+        "question": "Şehir merkezine ulaşım kolay mı?",
+        "answer": "Bu kategorideki marinaların büyük kısmı yürüyerek veya kısa toplu taşıma yolculuğuyla şehir merkezine ulaşım sağlar."
+      },
+      {
+        "question": "Alışveriş imkanları bulunur mu?",
+        "answer": "Marinaların çevresinde marketler, alışveriş merkezleri ve butik mağazalar yer alabilir."
+      },
+      {
+        "question": "Restoran seçenekleri fazla mı?",
+        "answer": "Şehir marinaları farklı mutfaklardan restoranlar ve kafeler açısından oldukça zengindir."
+      },
+      {
+        "question": "Şehir marinaları yıl boyunca açık mıdır?",
+        "answer": "Birçok şehir marinası dört mevsim boyunca hizmet vermektedir."
+      }
+    ]
+  }
+]

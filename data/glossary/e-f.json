@@ -1,0 +1,120 @@
+{
+    "id": "e-f",
+    "letter": "E-F",
+    "terms": [
+      {
+        "id": "eglenmek",
+        "slug": "eglenmek",
+        "term": "EĞLENMEK",
+        "definition": "Bir teknenin stop ederek veya çok ağır yol ile gideceği yere varması."
+      },
+      {
+        "id": "eldonanimi",
+        "slug": "eldonanimi",
+        "term": "EL DONANIMI",
+        "definition": "Mekanik olan ırgat gibi aygıtların el ile çalışabilmesi için yapılmış olan donanım."
+      },
+      {
+        "id": "eldumeni",
+        "slug": "eldumeni",
+        "term": "EL DÜMENİ",
+        "definition": "Kol gücü ile bir taraftan diğer tarafa basılan dümen."
+      },
+      {
+        "id": "elincesi",
+        "slug": "elincesi",
+        "term": "EL İNCESİ",
+        "definition": "Bir tekneden diğerine veya sahile atılan ucunda kurşun bir ağırlığın ceviz ile kaplı olduğu ve sonuçta bir halatın bağlanarak gönderildiği, parekete savlosu gibi incecik bir halat."
+      },
+      {
+        "id": "eliskandili",
+        "slug": "eliskandili",
+        "term": "EL İSKANDİLİ",
+        "definition": "Elektrikli iskandil olmayan teknelerde,derinlik ölçmek için çımasına 5 kg lık bir kurşun asılmış ve üzerine kulaç taksimatı yapılmış olan savlo."
+      },
+      {
+        "id": "faca",
+        "slug": "faca",
+        "term": "FAÇA",
+        "definition": "Seren yelkenlerin bir taraftan prasya olduğu halde kapatılması"
+      },
+      {
+        "id": "facunaetmek",
+        "slug": "facunaetmek",
+        "term": "FAÇUNA ETMEK",
+        "definition": "Halatların fazla sürtünmeye maruz olan kısımlarının yıpranmalarını önlemek için bu kısımlar üzerine gırcıla veya mürnel sararak halatı korumaya denir."
+      },
+      {
+        "id": "falaka",
+        "slug": "falaka",
+        "term": "FALAKA",
+        "definition": "Herhangi bir dikmeyi, sereni veya mataforayı istenilen durumda bulundurmak ve sağa sola dönmesine mani olmak için yapılan donanım."
+      },
+      {
+        "id": "farstahtalari",
+        "slug": "farstahtalari",
+        "term": "FARŞ TAHTALARI",
+        "definition": "Ağaç bir teknenin sintine üzerindeki aralıklı tahtaları."
+      },
+      {
+        "id": "firdondu",
+        "slug": "firdondu",
+        "term": "FIRDÖNDÜ",
+        "definition": "Zincirin gamba almaması için aralara konan bir eksene bağlı olarak dönen iki yarım bakladan oluşan kilit."
+      },
+      {
+        "id": "filika",
+        "slug": "filika",
+        "term": "FİLİKA",
+        "definition": "Savaş gemilerindeki kürekli veya yelkenli tekneler"
+      },
+      {
+        "id": "firengi",
+        "slug": "firengi",
+        "term": "FİRENGİ",
+        "definition": "Güvertedeki suyun denize akıtılabilmesi için yalı kütükleri üzerinden bordaya açılan oluklu delikler."
+      },
+      {
+        "id": "flador",
+        "slug": "flador",
+        "term": "FLADOR",
+        "definition": "Çarmıhların gerilmesi için kullanılan sistem."
+      },
+      {
+        "id": "flama",
+        "slug": "flama",
+        "term": "FLAMA",
+        "definition": "Üç köşeli sancak."
+      },
+      {
+        "id": "flasa",
+        "slug": "flasa",
+        "term": "FLASA",
+        "definition": "Halatı meydana getiren incecik ipler."
+      },
+      {
+        "id": "flok",
+        "slug": "flok",
+        "term": "FLOK",
+        "definition": "Baş taraf çekilen üç köşe yelken."
+      },
+      {
+        "id": "foraetmek",
+        "slug": "foraetmek",
+        "term": "FORA ETMEK",
+        "definition": "Bir yere bağlanmış olan halatın oradan çıkartılması. (Sivil denizcilikte: MOLA)"
+      },
+      {
+        "id": "friska",
+        "slug": "friska",
+        "term": "FRİŞKA",
+        "definition": "Bütün yelkenleri camadan vurmaksızın kullanılabilcek dercedeki sert rüzgar."
+      },
+      {
+        "id": "funda",
+        "slug": "funda",
+        "term": "FUNDO (FUNDA)",
+        "definition": "Demirlemek için verilen komut."
+      }
+    ]
+  }

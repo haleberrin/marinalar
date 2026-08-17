@@ -1,0 +1,39 @@
+{
+  "id": "event-3",
+  "slug": "tyba-yacht-show-2026",
+  "title": "TYBA Yat Charter Show 2026",
+
+  "description": [
+    "TYBA Yat Charter Show, Türkiye'nin önde gelen yat kiralama ve brokerlik etkinliklerinden biridir.",
+    "Akdeniz bölgesinden birçok profesyoneli bir araya getirerek sektörün tanıtımına katkı sağlar."
+  ],
+
+  "type": "charter_event",
+
+  "location": {
+    "regionId":"ege",
+    "cityId": "mugla",
+    "districtId": "fethiye",
+    "marinaId": "ece-saray-marina",
+    "name":"Fethiye",
+
+    "coordinates": {
+      "lat": 36.6404,
+      "lng": 29.1276
+    }
+  },
+
+  "featuredImage": "/images/events/event3.jpg",
+
+  "startDate": "2026-05-05",
+  "endDate": "2026-05-08",
+
+  "website": "https://tyba.org.tr",
+
+  "tags": [
+    "charter",
+    "luxury",
+    "food",
+    "festival"
+  ]
+}

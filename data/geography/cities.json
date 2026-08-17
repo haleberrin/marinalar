@@ -1,0 +1,26 @@
+[
+    {
+        "id": "mugla",
+        "slug": "mugla",
+        "name": "Muğla", 
+        "regionId": "ege",
+        "description": "string",
+        "coverImage": "/images/city/mugla.webp"
+      },
+    {
+        "id": "antalya",
+        "slug": "antalya",
+        "name": "Antalya", 
+        "regionId": "akdeniz",
+        "description": "string",
+        "coverImage": "/images/city/antalya.webp"
+      },
+      {
+        "id": "izmir",
+        "slug": "izmir",
+        "name": "İzmir",
+        "regionId": "ege",
+        "description": "string",
+        "coverImage": "/images/city/izmir.jpg"
+      }
+]

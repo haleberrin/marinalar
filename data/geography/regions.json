@@ -1,0 +1,65 @@
+[
+    {
+        "id": "ege",
+        "slug": "ege",
+        "name": "Ege Bölgesi",
+        "coverImage":"/images/marinas/ege.jpg",
+        "description":"Ege Bölgesinde; Muğla'da 19, İzmir'de 6, Didim, Kuşadası ve Ayvalık'ta 1'er olmak üzere toplam 28 marina bulunur",
+        "faq": [
+          {
+            "question": "Ege Bölgesi'nde kaç marina bulunuyor?",
+            "answer": "Ege Bölgesi, Türkiye'nin en yoğun marina ağına sahip bölgesidir. Bodrum, Göcek, Marmaris, Didim, Çeşme ve Kuşadası gibi birçok önemli marina bu bölgede yer alır."
+          },
+          {
+            "question": "Ege'de yat sezonu ne zaman başlar?",
+            "answer": "Genellikle Nisan ayında başlayan sezon, Kasım ayına kadar devam eder. En yoğun dönem Haziran ile Eylül ayları arasındadır."
+          },
+          {
+            "question": "Ege marinaları mega yatlara uygun mu?",
+            "answer": "Evet. Özellikle Yalıkavak, D-Marin Göcek ve Marmaris gibi marinalar büyük ve mega yatlar için üst düzey hizmet sunmaktadır."
+          }
+        ]
+      },
+      {
+        "id": "akdeniz",
+        "slug": "akdeniz",
+        "name": "Akdeniz Bölgesi",
+        "coverImage":"/images/marinas/akdeniz.jpg",
+        "description":"Akdeniz Bölgesinde; Antalya'da 5 ve Mersin'de 1 olmak üzere toplam 6 marina bulunur",
+        "faq": [
+          {
+            "question": "Akdeniz Bölgesi'nde hangi marinalar öne çıkıyor?",
+            "answer": "Kaş, Finike, Antalya Kaleiçi, Setur Antalya ve Alanya Marina bölgenin en popüler marinaları arasında yer alır."
+          },
+          {
+            "question": "Akdeniz'de deniz sezonu ne kadar sürer?",
+            "answer": "Akdeniz iklimi sayesinde deniz sezonu Mart ayından Kasım ayına kadar devam edebilir."
+          },
+          {
+            "question": "Akdeniz marinaları uluslararası tekneler için uygun mudur?",
+            "answer": "Evet. Bölgedeki birçok marina gümrük, pasaport ve uluslararası giriş işlemleri için gerekli altyapıya sahiptir."
+          }
+        ]
+      },
+      {
+        "id": "marmara",
+        "slug": "marmara",
+        "name": "Marmara Bölgesi",
+        "coverImage":"/images/marinas/marmara.jpg",
+        "description":"Maramara Bölgesinde; İstanbul'da 7, Çanakkale'de 1 ve Yalova'da 1 olmak üzere toplam 9 marina bulunur",
+        "faq": [
+          {
+            "question": "Marmara Bölgesi'nde hangi marinalar bulunuyor?",
+            "answer": "Ataköy Marina, Kalamış Marina, West İstanbul Marina ve Viaport Marina bölgenin en bilinen marinalarıdır."
+          },
+          {
+            "question": "Marmara marinaları yıl boyunca açık mı?",
+            "answer": "Evet. Marmara Bölgesi'ndeki marinaların büyük bölümü dört mevsim hizmet vermektedir."
+          },
+          {
+            "question": "İstanbul'dan kolay ulaşılabilen marinalar hangileridir?",
+            "answer": "Ataköy Marina, Kalamış Marina, Pendik Marina ve Viaport Marina İstanbul'dan kolay ulaşılabilen seçeneklerdir."
+          }
+        ]
+      }
+]

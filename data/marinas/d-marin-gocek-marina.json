@@ -1,0 +1,159 @@
+{
+    "id": "d-marin-gocek",
+    "slug": "d-marin-gocek",
+    "rating":4.5,
+  
+    "name": "D-Marin Göcek Marina",
+  
+    "regionId": "ege",
+    "cityId": "mugla",
+    "districtId":"gocek",
+  
+    "coordinates": {
+      "lat": 36.746615901102594,
+      "lng": 28.943083238338726
+    },
+  
+    "contact": {
+      "phone": "+90 (252) 645 15 20",
+      "email": "gocek@d-marin.com",
+      "website": "https://www.d-marin.com",
+      "vhfChannel": "73 - D-MARIN"
+    },
+    
+    "media": {
+      "logo": "/images/topmarinas/gocek.webp",
+      "coverImage": "/images/topmarinas/gocek.webp",
+  
+      "gallery": [
+        "/images/d-marin_gocek/1.jpeg",
+        "/images/d-marin_gocek/2.jpeg",
+        "/images/d-marin_gocek/3.jpeg",
+        "/images/d-marin_gocek/4.jpeg",
+        "/images/d-marin_gocek/5.jpeg"
+      ],
+  
+      "sitePlan": "/images/d-marin_gocek/yerlesim-plani.jpeg"
+    },
+ 
+  
+    "capacity": {
+      "seaBerth": 380,
+      "landBerth": 150,
+      "maxBoatLength": 70,
+      "depth": "6-12m"
+    },
+  
+    "facilities": [
+      "wc",
+      "shower",
+      "parking",
+      "laundry",
+      "storage"
+    ],
+  
+    "amenities": [
+      "electricity",
+      "wifi",
+      "water",
+      "mooring",
+      "security",
+      "waste_collection",
+      "mobile_crane",
+      "diving_service",
+      "crane",
+      "haul_out"
+    ],
+  
+    "description": [
+      "Türkiye’nin en güvenli doğal marinası olarak kabul edilen D-Marin Göcek, geniş manevra alanı ve derin suları ile en derin yatlar için bile ideal bir marinadır.",
+      "Altın kumlu plajları ve Ege’nin yüzlerce adasına kolay ulaşım imkanı ile öne çıkmaktadır.",
+      "Göcek şehir merkezi, restoranlar, kafeler ve barlara yürüyüş mesafesindedir.",
+      "70 metreye kadar yat ve süper yatlara hizmet vermekte olup denizde 380, karada 150 tekne kapasitesine sahiptir.",
+      "75 ton travel lift ve 40 ton tekne taşıyıcısı ile çekek hizmetleri sunmaktadır."
+    ],
+  
+    "summary": "Türkiye’nin en güvenli doğal marinalarından biri olarak kabul edilen D-Marin Göcek, geniş manevra alanı, derin suları ve Göcek merkezine yakın konumuyla öne çıkmaktadır.",
+  
+    "tags": [
+      "gocek",
+      "ege",
+      "superyacht",
+      "natural-marina",
+      "travel-lift",
+      "blue-cruise"
+    ],
+
+    "categories": [
+      "luxury",
+      "mega_yacht",
+      "nightlife"
+    ],
+
+    "aiTags": [
+      "couple",
+      "family",
+      "luxury",
+      "nature",
+      "quiet",
+      "sailing"
+    ],
+
+    "nearbyBays":[
+      "Bedri Rahmi Koyu",
+      "Sarsala Koyu",
+      "Yassıca Adaları",
+      "Killebükü"
+     ],
+
+     "nearbyAttractions":[
+      "Göcek Çarşısı",
+      "12 Adalar",
+      "Dalyan",
+      "Ölüdeniz"
+     ],
+
+     "scores":{
+      "luxury":95,
+      "family":70,
+      "nightlife":90,
+      "nature":85,
+      "sailing":92,
+      "technical":88,
+      "naturalBeauty": 98,
+      "windProtection": 96
+     },
+
+     "petFriendly": true,
+
+      "customsClearance": true,
+
+      "charterAvailable": true,
+
+      "winterStorageAvailable": true,
+
+     
+
+      "nearestAirport": "Dalaman Airport",
+
+      "airportDistance": 20,
+
+      "blueFlag": true,
+
+      "relatedEvents": [
+        "Göcek Yacht Charter Season Opening",
+        "Göcek Sailing Festival",
+        "Blue Voyage Regatta (Göcek Stage)"
+      ],
+
+      "recommendedFor": {
+        "beginner": true,
+        "family": true,
+        "couples": true,
+        "longStay": true,
+        "superyacht": true,
+        "liveaboard": true
+      }
+  }
+
+  

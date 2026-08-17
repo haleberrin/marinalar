@@ -1,0 +1,169 @@
+{
+  "id": "p-r",
+  "letter": "P-R",
+  "terms": [
+    {
+      "id": "palamar",
+      "slug": "palamar",
+      "term": "PALAMAR",
+      "definition": "Gemilerin rıhtıma veya iskeleye bağlanmasında halattan daha kalın yomalara verilen isim."
+    },
+    {
+      "id": "palanga",
+      "slug": "palanga",
+      "term": "PALANGA",
+      "definition": "Bir halat ve en az iki makaradan oluşan kaldırma mekanizması."
+    },
+    {
+      "id": "palavraGuverte",
+      "slug": "palavraGuverte",
+      "term": "PALAVRA GÜVERTE",
+      "definition": "Eskiden harp gemilerinde topların bulunduğu güverte."
+    },
+    {
+      "id": "patalya",
+      "slug": "patalya",
+      "term": "PATALYA",
+      "definition": "Küçük gemilerin gemi ihtiyacını karşılayan 12 kadem boyunda ve iki çifte kürekli ağaçtan yapılmış ufak tekne. "
+    },
+    {
+      "id": "patrisa",
+      "slug": "patrisa",
+      "term": "PATRİSA",
+      "definition": "Çubukların bağlanması için cundalarından aşağı ve geriye doğru inen ve tekneye bağlanan sabit arma."
+    },
+    {
+      "id": "pik",
+      "slug": "pik",
+      "term": "PİK",
+      "definition": "Giz veya serenlerin üzerine açılmış üç köşe yelken."
+    },
+    {
+      "id": "pikYakasi",
+      "slug": "pikYakasi",
+      "term": "PİK YAKASI",
+      "definition": "Bir yan yelkeninin üst ve köşedeki yakasıdır."
+    },
+    {
+      "id": "piyan",
+      "slug": "piyan",
+      "term": "PİYAN",
+      "definition": "Bir halatın çımasının açılıp dağılmaması için çımasına ıspavlo veya gırcıla ile yapılan bir çeşit düğüm şekli."
+    },
+    {
+      "id": "porsunAmbari",
+      "slug": "porsunAmbari",
+      "term": "PORSUN AMBARI",
+      "definition": "Gemicilikle ilgili alet, malzeme ve diğer malzemelerin muhafaza edildiği ambar."
+    },
+    {
+      "id": "posta",
+      "slug": "posta",
+      "term": "POSTA",
+      "definition": "Üzerine kaplama tahtalarının veya saçların tespit edildiği ağaç veya maden eğriler kaburga."
+    },
+    {
+      "id": "pruva",
+      "slug": "pruva",
+      "term": "PRUVA",
+      "definition": "Bir teknenin ön tarafından ileri istikameti."
+    },
+    {
+      "id": "pruvaDiregi",
+      "slug": "pruvaDiregi",
+      "term": "PRUVA DİREĞİ",
+      "definition": "Birden çok direkli teknede baş taraftaki ilk direk."
+    },
+    {
+      "id": "puntel",
+      "slug": "puntel",
+      "term": "PUNTEL",
+      "definition": "Güvertenin kuvvetlendirilmesi için alttan dikine konan destek veya güverte üzerindeki vardevelaları tutmak için güverteye dik olarak konulan demir çubuklar."
+    },
+    {
+      "id": "pusula",
+      "slug": "pusula",
+      "term": "PUSULA",
+      "definition": "Geminin üzerinde seyrettiği istikameti gösteren alet."
+    },
+    {
+      "id": "pusulaKarti",
+      "slug": "pusulaKarti",
+      "term": "PUSULA KARTI",
+      "definition": "Pusula ibrelerinin üzerine oturtulmuş derece veya kerte taksimatı bulunan daire şeklinde bir karttır."
+    },
+    {
+      "id": "pusulaMihveri",
+      "slug": "pusulaMihveri",
+      "term": "PUSULA MİHVERİ EKSENİ",
+      "definition": "Pusula kartının merkezinin oturduğu ucu sivri bir iğnedir."
+    },
+    {
+      "id": "pusulaTasi",
+      "slug": "pusulaTasi",
+      "term": "PUSULA TASI",
+      "definition": "Mıknatısı pusulalarda pirinç veya bakırdan yapılmış (manyetik etkisi olmaması için) yarım küre biçiminde içi boş bir tastır."
+    },
+    {
+      "id": "puta",
+      "slug": "puta",
+      "term": "PUTA",
+      "definition": "Yerine koymak, donatmak."
+    },
+    {
+      "id": "radansa",
+      "slug": "radansa",
+      "term": "RADANSA",
+      "definition": "Halatların çımalarında kasa yapmakta kullanılan madeni halka biçimindeki malzeme."
+    },
+    {
+      "id": "randaYelkeni",
+      "slug": "randaYelkeni",
+      "term": "RANDA YELKENİ",
+      "definition": "Yelkenli bir teknede en geriye açılan yan yelkeni."
+    },
+    {
+      "id": "roda",
+      "slug": "roda",
+      "term": "RODA",
+      "definition": "Kullanılmamış, açılmamış nebati halat sargısı."
+    },
+    {
+      "id": "rota",
+      "slug": "rota",
+      "term": "ROTA",
+      "definition": "Seyir halince bulunan gemilerin izlediği hat."
+    },
+    {
+      "id": "rubaEtmek",
+      "slug": "rubaEtmek",
+      "term": "RUBA ETMEK",
+      "definition": "Yelkenle rüzgarı başa alarak tekneyi geriletmek."
+    },
+    {
+      "id": "rusvetGuverte",
+      "slug": "rusvetGuverte",
+      "term": "RÜŞVET GÜVERTE",
+      "definition": "Yolcu gemilerinde filikaların üzerine oturtulduğu kalastraların bulunduğu güverte."
+    },
+    {
+      "id": "ruzgarAlti",
+      "slug": "ruzgarAlti",
+      "term": "RÜZGAR ALTI",
+      "definition": "Rüzgarın estiği yönün aksi."
+    },
+    {
+      "id": "ruzgarYakasi",
+      "slug": "ruzgarYakasi",
+      "term": "RÜZGAR YAKASI",
+      "definition": "Bir yelkende rüzgarın estiği taraftaki yaka."
+    },
+    {
+      "id": "ruzgarustu",
+      "slug": "ruzgarustu",
+      "term": "RÜZGARÜSTÜ",
+      "definition": "Rüzgarın estiği yön."
+    }
+    
+  ]
+}

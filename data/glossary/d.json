@@ -1,0 +1,120 @@
+{
+    "id": "d",
+    "letter": "D",
+    "terms": [
+      {
+        "id": "dabilbatim",
+        "slug": "dabilbatim",
+        "term": "DABILBATIM",
+        "definition": "Gemilerin karinası yırtıldığında teknenin su almaması için postaların iç tarafına ikinci bir kaplama konur ki, bu iki kaplama arasındaki double-bottom denir. Bu bölüm safra ve yakıt deposu olarak da kullanılır."
+      },
+      {
+        "id": "denizdemiri",
+        "slug": "denizdemiri",
+        "term": "DENİZ DEMİRİ",
+        "definition": "Denizde ve rüzgarda hareketsiz kalan teknenin dalgalara borda vermemesi için baştan veya kıçtan denize attıkları koni şeklindeki branda torba."
+      },
+      {
+        "id": "desteetmek",
+        "slug": "desteetmek",
+        "term": "DESTE ETMEK",
+        "definition": "Halatın veya zincirin iyice gerilmesi."
+      },
+      {
+        "id": "dingi",
+        "slug": "dingi",
+        "term": "DİNGİ",
+        "definition": "Tek çifte kürekle hareket eden 9 kadem boyundaki tekne. Dingi yerine patalya terimi kullanılır."
+      },
+      {
+        "id": "direkfistani",
+        "slug": "direkfistani",
+        "term": "DİREK FİSTANI",
+        "definition": "Suların içeriye girmemesi için direğin güverteden geçtiği ıskaçanın etrafına su geçirmez şekilde konulan tahta çember."
+      },
+      {
+        "id": "dirisaetmek",
+        "slug": "dirisaetmek",
+        "term": "DİRİSA ETMEK:",
+        "definition": "Yön değiştirmek, rüzgarın dirisa etmesi, bumbayı dirisa etmek."
+      },
+      {
+        "id": "doblin",
+        "slug": "doblin",
+        "term": "DOBLİN",
+        "definition": "Bir halatın iki çıması arasındaki sarkık kısım."
+      },
+      {
+        "id": "doblinalmak",
+        "slug": "doblinalmak",
+        "term": "DOBLİN ALMAK",
+        "definition": "Vermek, Tutmak Bir halatın iki çımasının gemide kalmak üzere bordadaki veya sahildeki bir babaya iki, üç kez sarılması."
+      },
+      {
+        "id": "",
+        "slug": "",
+        "term": "DÖKÜNTÜ",
+        "definition": "Deniz yüzeyine yakın kayalık kümeler."
+      },
+      {
+        "id": "dosekli",
+        "slug": "dosekli",
+        "term": "DÖŞEKLİ",
+        "definition": "Altı düz olan tekne."
+      },
+      {
+        "id": "dumen",
+        "slug": "dumen",
+        "term": "DÜMEN",
+        "definition": "Gemiyi istenilen yöne çevirmek için saç veya tahtadan yapılmış olup kıç tarafa monte edilen yelpaze şeklindeki bir parça."
+      },
+      {
+        "id": "dumenbasligi",
+        "slug": "dumenbasligi",
+        "term": "DÜMEN BAŞLIĞI",
+        "definition": "Yeke evini kuşatmak - kuvvetlendirmek için dümen şaftının etrafına geçirilen maden başlık, dümen tası"
+      },
+      {
+        "id": "dumenbodoslamasi",
+        "slug": "dumenbodoslamasi",
+        "term": "DÜMEN BODOSLAMASI:",
+        "definition": "Kıç bodoslama."
+      },
+      {
+        "id": "dumenbogazi",
+        "slug": "dumenbogazi",
+        "term": "DÜMEN BOĞAZI",
+        "definition": "Dümen yelpazesinden yukarıda kalan kısım."
+      },
+      {
+        "id": "dumendolabi",
+        "slug": "dumendolabi",
+        "term": "DÜMEN DOLABI:",
+        "definition": "Dümen yekesine bağlı mekanizmasını çevirebilmek için yapılmış olan aygıt."
+      },
+      {
+        "id": "dumendonanimi",
+        "slug": "dumendonanimi",
+        "term": "DÜMEN DONANIMI",
+        "definition": "Dümen yekesi ile dümen dolabı arasında kalan tel halat mekanizma, uskurlu şaft ve kolar ile bunların geçtikleri makaralı sistemin tümüne verilen isim."
+      },
+      {
+        "id": "dumenyelpazesi",
+        "slug": "dumenyelpazesi",
+        "term": "DÜMEN YELPAZESİ",
+        "definition": "Dümenlerin, dümen boğazlarından aşağıda olan yassı kısımları."
+      },
+      {
+        "id": "dumenzaviyesi",
+        "slug": "dumenzaviyesi",
+        "term": "DÜMEN ZAVİYESİ",
+        "definition": "Dümen yelpaze sathının omurga ile yapmış olduğu açı."
+      },
+      {
+        "id": "dumencipusulasi",
+        "slug": "dumencipusulasi",
+        "term": "DÜMENCİ PUSULASI:",
+        "definition": "Dümen dolabının hemen önüne konulmuş olan mıknatisi pusula"
+      }
+    ]
+  }

@@ -1,0 +1,167 @@
+{
+  "id": "yalikavak-marina",
+  "slug": "yalikavak-marina",
+  "rating":4.8,
+
+  "name": "Yalikavak Marina",
+
+  "regionId": "ege",
+  "cityId": "mugla",
+  "districtId":"bodrum",
+
+  
+  "coordinates": {
+    "lat": 37.10234246514035,
+    "lng": 27.284052809519313
+  },
+
+  "contact": {
+    "phone": "+90 (252) 311 06 11",
+    "email": "marina@yalikavakmarina.com.tr",
+    "website": "https://yalikavakmarina.com.tr",
+    "vhfChannel": "16 - YALIKAVAK MARİNA"
+  },
+
+  "media": {
+    "logo": "/images/topmarinas/bodrum.jpg",
+    "coverImage": "/images/topmarinas/bodrum.jpg",
+    
+    "gallery": [
+      "/images/marinas/yalikavak.jpg",
+      "/images/yalikavak_marina/1.jpeg",
+      "/images/yalikavak_marina/2.jpeg",
+      "/images/yalikavak_marina/3.jpeg",
+      "/images/yalikavak_marina/4.jpeg",
+      "/images/yalikavak_marina/5.jpeg"
+      
+    ],
+    
+    "sitePlan": null
+  },
+
+  "capacity": {
+    "seaBerth": 620,
+    "landBerth": 140,
+    "maxBoatLength": 70,
+    "depth": "6-12m"
+  },
+  
+  "facilities": [
+    "wc",
+    "shower",
+    "parking",
+    "laundry",
+    "storage"
+  ],
+  
+  "amenities": [
+    "fuel",
+    "water",
+    "electricity",
+    "wifi",
+    "security",
+    "repair",
+    "crane",
+    "diving_service",
+    "fire_service",
+    "waste_collection",
+    "atm",
+    "laundry",
+    "restaurant",
+    "parking",
+    "shower"
+  ],
+  
+  "description": [
+    "Yalıkavak Marina Türkiye'nin ilk yüksek kapasiteli mega yat marinalarından biridir.",
+    "620 deniz ve 140 kara bağlama kapasitesine sahiptir.",
+    "Marina içerisinde lüks mağazalar, restoranlar, beach club, spa, oteller ve teknik servis alanları bulunmaktadır.",
+    "Uluslararası ödüllere sahip olan marina özellikle süper yat sahipleri tarafından tercih edilmektedir."
+  ],
+  
+  
+  "summary": "Yalıkavak Marina, Bodrum Yarımadası'nın kuzeybatısında yer alan ve 140 metreye kadar mega yatları ağırlayabilen Türkiye'nin en prestijli marinalarından biridir.",
+  
+
+  "tags": [
+    "super-yacht",
+    "bodrum",
+    "ege"
+  ],
+
+  "nearestAirport": "Milas-Bodrum Airport",
+  "airportDistance": 52,
+
+  "categories": [
+    "family",
+    "charter",
+    "beginner",
+    "mega_yacht",
+    "nightlife"
+  ],
+
+  "aiTags": [
+    "luxury",
+    "nightlife",
+    "couple",
+    "family",
+    "sailing"
+  ],
+
+  "relatedEvents": [
+    "Bodrum Cup",
+    "Yalıkavak Sailing Regatta",
+    "Bodrum Yacht Show"
+  ],
+
+  "nearbyBays": [
+    "Tilkiçik Koyu",
+    "Geriş Koyu",
+    "Gündoğan Koyu",
+    "Türkbükü"
+  ],
+
+  "nearbyAttractions": [
+    "Yalıkavak Palmarina Shopping Street",
+    "Bodrum Kalesi",
+    "Bodrum Marina",
+    "Türkbükü Beach Clubs",
+    "Gümüşlük"
+  ],
+
+  "openingYear": 2009,
+
+  "blueFlag": true,
+
+  "petFriendly": true,
+
+  "customsClearance": true,
+
+  "charterAvailable": true,
+
+  "winterStorageAvailable": true,
+
+ 
+
+  "recommendedFor": {
+    "beginner": true,
+    "family": true,
+    "couples": true,
+    "longStay": true,
+    "superyacht": true,
+    "liveaboard": true
+  },
+
+  "scores": {
+    "luxury": 98,
+    "family": 85,
+    "nightlife": 95,
+    "nature": 80,
+    "sailing": 88,
+    "technical": 92,
+    "naturalBeauty": 88,
+    "windProtection": 72
+  }
+}
+
+

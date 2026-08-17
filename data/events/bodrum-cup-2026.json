@@ -1,0 +1,44 @@
+{
+  "id": "event-1",
+  "slug": "bodrum-cup-2026",
+  "title": "Bodrum Cup 2026",
+
+  "description": [
+    "Bodrum Cup, Türkiye'nin en köklü yelken organizasyonlarından biridir.",
+    "Geleneksel guletler ve modern yatların katıldığı yarışlar Ege'nin eşsiz koylarında gerçekleşir.",
+    "Etkinlik, denizcilik kültürünü ve Bodrum'un turizm değerini ön plana çıkarır."
+  ],
+
+  "type": "regatta",
+
+  "location": {
+    "regionId":"ege",
+    "cityId": "mugla",
+    "districtId": "bodrum",
+    "name":"Bodrum",
+
+    "marinaId":"yalikavak-marina",
+
+    "coordinates": {
+      "lat": 37.03833,
+      "lng": 27.42917
+    }
+  },
+
+  "featuredImage": "/images/events/event1.jpg",
+
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-25",
+
+  "website": "https://bodrumcup.com",
+
+  "tags": [
+    "sailing",
+    "race",
+    "regatta",
+    "festival",
+    "luxury"
+  ],
+
+  "featured": true
+}

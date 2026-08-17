@@ -1,0 +1,38 @@
+{
+  "id": "event-2",
+  "slug": "gocek-yacht-festival-2026",
+  "title": "Göcek Yat Festivali 2026",
+
+  "description": [
+    "Göcek Yat Festivali, lüks yatların, charter firmalarının ve denizcilik sektörünün bir araya geldiği prestijli bir etkinliktir.",
+    "Göcek koylarında düzenlenen organizasyon, yatçılık dünyasının önemli buluşmalarından biridir."
+  ],
+
+  "type": "festival",
+
+  "location": {
+    "regionId": "ege",
+    "cityId": "mugla",
+    "districtId": "gocek",
+    "marinaId": "d-marin-gocek",
+    "name": "Göcek",
+    "coordinates": {
+      "lat": 36.7537,
+      "lng": 28.9423
+    }
+  },
+
+  "featuredImage": "/images/events/event2.jpg",
+
+  "startDate": "2026-06-12",
+  "endDate": "2026-06-15",
+
+  "website": "",
+
+  "tags": [
+    "luxury",
+    "charter",
+    "festival",
+    "sailing"
+  ]
+}

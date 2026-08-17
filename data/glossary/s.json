@@ -1,0 +1,168 @@
+{
+    "id": "s-ş",
+    "letter": "S-Ş",
+    "terms": [
+      {
+        "id": "safra",
+        "slug": "safra",
+        "term": "SAFRA",
+        "definition": "Bir teknede denge sağlanması için sintinesine konan ağırlık."
+      },
+      {
+        "id": "saganak",
+        "slug": "saganak",
+        "term": "SAĞANAK",
+        "definition": "Rüzgarın eserken birdenbire şiddetli esmesi."
+      },
+      {
+        "id": "salma",
+        "slug": "salma",
+        "term": "SALMA",
+        "definition": "Bir teknenin rüzgara veya akıntıya bağlı olarak dönmesi."
+      },
+      {
+        "id": "salmaomurga",
+        "slug": "salmaomurga",
+        "term": "SALMA OMURGA",
+        "definition": "Ufak yelkenli teknelerin rüzgar tesiri ile bayılmalarına mani olmak için omurga istikametinden denize indirilen saçtan yapılmış kuntra omurgalarıdır. "
+      },
+      {
+        "id": "salpa",
+        "slug": "salpa",
+        "term": "SALPA",
+        "definition": "Demirin deniz dibinden kurtulması, ağırlığını zincire binmesi."
+      },
+      {
+        "id": "sancak",
+        "slug": "sancak",
+        "term": "SANCAK",
+        "definition": "Bayrak veya teknenin sağ yarısı, sağ tarafı"
+      },
+      {
+        "id": "sancakalbanda",
+        "slug": "sancakalbanda",
+        "term": "SANCAK ALABANDA",
+        "definition": "Dümenin sancak tarafa doğru en çok basılabilmesi için verilen emir."
+      },
+      {
+        "id": "sancakgonderi",
+        "slug": "sancakgonderi",
+        "term": "SANCAK GÖNDERİ",
+        "definition": "Kıç tarafa güverteden sancak çekmek için dikilmiş gönder."
+      },
+      {
+        "id": "saravele",
+        "slug": "saravele",
+        "term": "SARAVELE",
+        "definition": "Yelkenin sarılması için verilen komuta denir."
+      },
+      {
+        "id": "savlo",
+        "slug": "savlo",
+        "term": "SAVLO",
+        "definition": "Sancak çekmek için kullanılan1,5 burgatalık ince halat."
+      },
+      {
+        "id": "selvice",
+        "slug": "selvice",
+        "term": "SELVİÇE",
+        "definition": "Yelkenli bir gemi armasındaki hareketli halatlar."
+      },
+      {
+        "id": "seren",
+        "slug": "seren",
+        "term": "SEREN",
+        "definition": "Direkler üzerinde yelken açmak için ve işaret çekmek için yatay olarak bağlanmış gönder."
+      },
+      {
+        "id": "serenyakasi",
+        "slug": "serenyakasi",
+        "term": "SEREN YAKASI",
+        "definition": "Dörtköşe yelkenlerin serene , yan yelkenlerin gize bağlanan yakalarıdır. Matafyon yakası da denilir."
+      },
+      {
+        "id": "sigsu",
+        "slug": "sigsu",
+        "term": "SIĞ SU",
+        "definition": "Denizin (genellikle sahil kısmına yakın) herhangi bir kısmında teknelerin seyretmelerine uygun olmayacak şekildeaz su bulunan pek derin olmayan yerlere denir."
+      },
+      {
+        "id": "silyonfeneri",
+        "slug": "silyonfeneri",
+        "term": "SİLYON FENERİ",
+        "definition": "Gece ve karanlıkta gemilerin seyir halindeyken pruva ve grandi direkleri cundalarında yaktıkları ufkun 20 kertelik bir sahasından berrak havada en az 5 milden görülebilen ve pruvadaki grandiye nazaran daha aşağıda olan fenerlerdir."
+      },
+      {
+        "id": "sintine",
+        "slug": "sintine",
+        "term": "SİNTİNE",
+        "definition": "Gemi makine ve kazanlarının bulunduğu kısmın zeminin altındai genellikle ambar güvertesinin altında kalan ve gemi içinden sızan sularla makine ve kazan dairelerinden akan yağ yakıtların toplandığı en alt kısım."
+      },
+      {
+        "id": "sisisateri",
+        "slug": "sisisateri",
+        "term": "SİS İŞARETİ",
+        "definition": "Siste seyir halindeki gemilerin birbirlerine durumlarını belirtmek üzere düdükle verdikleri işaret."
+      },
+      {
+        "id": "siskampanasi",
+        "slug": "siskampanasi",
+        "term": "SİS KAMPANASI",
+        "definition": "Demirde veya şamandrada yatan gemilerin siste mevkilerini belirtmek için çaldıkları kampana."
+      },
+      {
+        "id": "siya",
+        "slug": "siya",
+        "term": "SİYA",
+        "definition": "Kürekle hareket eden deniz araçlarının yollarını kesmeleri için küreklerinin suya batırılması ve topaçlarının kıç tarafa doğru itilerek teknenin durması veya devamlı siya kürek çekerek geriye doğru gitmesi."
+      },
+      {
+        "id": "sograsokra",
+        "slug": "sograsokra",
+        "term": "SOĞRA SOKRA",
+        "definition": "Armuz kaplamada, kısa gelen kaplama tahtalarının uçlarının birleştiği yerdeki çizgi."
+      },
+      {
+        "id": "suhatti",
+        "slug": "suhatti",
+        "term": "SU HATTI",
+        "definition": "Teknenin gövdesinde ıslak yüzeyle kuru yüzeyi arasında meydana gelen çizgi."
+      },
+      {
+        "id": "sugaetmek",
+        "slug": "sugaetmek",
+        "term": "SUGA ETMEK",
+        "definition": "Vira edip sıkıştırmak."
+      },
+      {
+        "id": "subyearmali",
+        "slug": "subyearmali",
+        "term": "SÜBYE ARMALI",
+        "definition": "Direklerinde seren yelkenleri olmayıp sadece yan yelkenleri bulunan tekneler."
+      },
+      {
+        "id": "sulyen",
+        "slug": "sulyen",
+        "term": "SÜLYEN",
+        "definition": "Yeni konan yada raspa edildikten sonra temizlenmiş olan çelik veya demir saçlar üzerine koruyucu bir astar olarak sürülen genellikle kırmızı renkteki boya."
+      },
+      {
+        "id": "surmeomurga",
+        "slug": "surmeomurga",
+        "term": "SÜRME OMURGA",
+        "definition": "Salma omurga da denilebilir. Ana omurga bedenine açılan bir yarıktan aşağı yukarı hareket ettirilebilen tahta veya madeni levha şeklindeki omurga olup yelkenliteknelerde yelkenle seyir anında devrilmemek veya rüzgar altına düşmemek için kullanılır."
+      },
+      {
+        "id": "sapka",
+        "slug": "sapka",
+        "term": "ŞAPKA",
+        "definition": "Direklerin üst uçlarına geçirilmiş yuvarlak tabla."
+      },
+      {
+        "id": "seytancarmihi",
+        "slug": "seytancarmihi",
+        "term": "ŞEYTAN ÇARMIHI",
+        "definition": "İki halat arasına ağaç basamaklarla yapılan bordadan sarkıtılan merdiven."
+      }
+    ]
+  }

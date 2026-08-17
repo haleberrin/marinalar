@@ -1,0 +1,42 @@
+{
+    "id": "blog-1",
+    "slug": "turkiyenin-en-populer-marinalari-ve-hizmetleri",
+    "title": "Türkiye'nin En Popüler Marinaları ve Sunduğu Hizmetler",
+    "excerpt": "Türkiye’deki marinaların sunduğu modern hizmetler, yat sahipleri için sağladığı imkanlar ve Ege-Akdeniz bölgesindeki öne çıkan marinalar.",
+    "metaTitle": "Türkiye'nin En Popüler Marinaları ",
+    "metaDescription": "Türkiye'deki marinaların sunduğu hizmetler ve Ege-Akdeniz bölgesindeki önemli marina destinasyonları hakkında detaylı rehber.",
+    "featuredImage": "/images/HeroSlider3.jpg",
+    "author": "Marina Guide",
+    "publishedAt": "2026-01-10",
+    "readingTime": 6,
+    "tags": ["marina", "yat", "ege", "akdeniz", "hizmetler"],
+    "relatedMarinas": ["yalikavak-marina", "d-marin-gocek", "ece-saray-marina"],
+    "category": "Rota ve Seyahat",
+    "content": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Türkiye'de Marina Turizmi Neden Büyüyor?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Türkiye, üç tarafı denizlerle çevrili yapısı ve eşsiz koyları sayesinde dünya yat turizmi açısından önemli bir destinasyondur."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bir Marinada Hangi Hizmetler Bulunur?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Tekne bağlama alanları",
+          "Elektrik ve su bağlantıları",
+          "Yakıt istasyonları",
+          "Teknik bakım hizmetleri",
+          "Restoran ve kafeler",
+          "Güvenlik sistemleri"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,216 @@
+{
+    "id": "a",
+    "letter": "A",
+    "terms": [
+        {
+          "id": "abaso",
+          "slug": "abaso",
+          "term": "ABAŞO",
+          "definition": "Alt ve asagi [Abaso Gabya yelkeni]."
+        },
+        {
+            "id": "abli",
+            "slug": "abli",
+            "term": "ABLİ",
+            "definition": "Seren ve bumba cundalarindan asagi iki tarafa inen halatlar."
+        },
+        {
+            "id": "aborda",
+            "slug": "aborda",
+            "term": "ABORDA",
+            "definition": "Bir teknenin diğerine veya bir iskeleye yanaşması."
+        },
+        {
+          "id": "abosa",
+          "slug": "abosa",
+          "term": "ABOSA",
+          "definition": "Bosayi tut veya geçici olarak durdur, bosaya vurmak."
+        },
+        {
+          "id": "abramak",
+          "slug": "abramak",
+          "term": "ABRAMAK",
+          "definition": "Kontrol altina almak, komutasi altinda tutmak, üstünden gelme."
+        },
+        {
+          "id": "aciktaEylemek",
+          "slug": "aciktaEylemek",
+          "term": "AÇIKTA EYLENMEK",
+          "definition": "Bir teknenin sahilden veya iskeleden yada limandan açikta beklemesi."
+        },
+        {
+          "id": "admiraltidemiri",
+          "slug": "admiraltidemiri",
+          "term": "ADMİRALTİ DEMİRİ",
+          "definition": "Çiposu kollarina dik ve hareketli eski sistem bir demir cinsi."
+        },
+        {
+          "id": "aganta",
+          "slug": "aganta",
+          "term": "AGANTA",
+          "definition": "Zincir veya halatin kisa bir zaman süresi için elde tutulup birakilmamasi [Aganta iskota, aganta borina borinata]."
+        },
+        {
+          "id": "agizkusagi",
+          "slug": "agizkusagi",
+          "term": "AĞIZ KUŞAĞI",
+          "definition": "Armuz kaplamanin en üst sirasi [bindirme kaplamanin da]."
+        },
+        {
+          "id": "alabanda",
+          "slug": "alabanda",
+          "term": "ALABANDA",
+          "definition": "Bordanin iç kismi veya dümenin 35° ye kadar basilmasi."
+        },
+        {
+          "id": "alabora",
+          "slug": "alabora",
+          "term": "ALABORA",
+          "definition": "Altüst olma, teknenin ters çevrilmesi."
+        },
+        {
+          "id": "alamakurek",
+          "slug": "alamakurek",
+          "term": "ALAMA KüREK",
+          "definition": "Hep birlikte kürek çekerken çekmeyi durdurmak için verilen komut."
+        },
+        {
+          "id": "alamatra",
+          "slug": "alamatra",
+          "term": "ALAMATRA",
+          "definition": "Karadeniz’de imal edilen balikçi teknesi."
+        },
+        {
+          "id": "alarga",
+          "slug": "alarga",
+          "term": "ALARGA",
+          "definition": "Açikta demektir. [Alargada bekle, alarga dur][Italyanca largo] alargaya çikmak, [açiga çikmak]."
+        },
+        {
+          "id": "alaysancagi",
+          "slug": "alaysancagi",
+          "term": "ALAY SANCAĞI",
+          "definition": "İşaret sancakları ile donatılmaya, alay sancaklarının çekilmesi denir."
+        },
+        {
+          "id": "alberaber",
+          "slug": "alberaber",
+          "term": "ALBERABER",
+          "definition": "Hep birlikte kürek çekmek için verilen komuta."
+        },
+        {
+          "id": "alesta",
+          "slug": "alesta",
+          "term": "ALESTA",
+          "definition": "Hazır olmak, hazır olarak apikoda beklemek, Alesta tramola Tramola etmeye hazır ol."
+        },
+        {
+          "id": "altabaso",
+          "slug": "altabaso",
+          "term": "ALTABAŞO",
+          "definition": "Bir yelkenin alt yakası, alt ve aşağı anlamında da kullanılır."
+        },
+        {
+          "id": "amorayakasi",
+          "slug": "amorayakasi",
+          "term": "AMORA YAKASI",
+          "definition": "Dört köşe bir yelkenin alt ve ön tarafındaki yakaKarula yakası."
+        },
+        {
+          "id": "anaguverte",
+          "slug": "anaguverte",
+          "term": "ANA GÜVERTE",
+          "definition": "Geminin veya teknenin üzerinde yürünen en üstteki güvertesi."
+        },
+        {
+          "id": "anaomurga",
+          "slug": "anaomurga",
+          "term": "ANA OMURGA",
+          "definition": "Gemilerin en üst kısmında, kasara güvertelerin altında bulunan ve geminin başından kıçına kadar uzanan güverte."
+        },
+        {
+          "id": "anele",
+          "slug": "anele",
+          "term": "ANELE",
+          "definition": "Hareketli demir halka"
+        },
+        {
+          "id": "anelebagi",
+          "slug": "anelebagi",
+          "term": "ANELE BAĞI:",
+          "definition": "Aneleye yapılan bir çeşit bağ"
+        },
+        {
+          "id": "apazlama",
+          "slug": "apazlama",
+          "term": "APAZLAMA",
+          "definition": "Kemere istikametinden gelen rüzgar Yelken seyri"
+        },
+        {
+          "id": "apiko",
+          "slug": "apiko",
+          "term": "APİKO",
+          "definition": "Demirin vira edilişinde deniz dibinden kurtulup dimdik durduğu vaziyet."
+        },
+        {
+          "id": "arma",
+          "slug": "arma",
+          "term": "ARMA",
+          "definition": "Sabit donanım Direkçarmıhları, istralyalar"
+        },
+        {
+          "id": "armuz",
+          "slug": "armuz",
+          "term": "ARMUZ",
+          "definition": "Güverte ve borda kaplama tahtalarının arasındaki çizgi Armuztutmak, armuz kaplama"
+        },
+        {
+          "id": "arya",
+          "slug": "arya",
+          "term": "ARYA:",
+          "definition": "Yelkenin, sancağın veya çubukların aşağıya indirilmesi Arya sancak, arya kürek"
+        },
+        {
+          "id": "asirmapracerayelken",
+          "slug": "asirmapracerayelken",
+          "term": "AŞIRTMA PRAÇERA YELKEN",
+          "definition": "Kavançalı seren yelkeni"
+        },
+        {
+          "id": "asoz",
+          "slug": "asoz",
+          "term": "AŞOZ",
+          "definition": "Kaplama tahtaları için omurga ve bodoslamalar açılan oyuklar."
+        },
+        {
+          "id": "avara",
+          "slug": "avara",
+          "term": "AVARA",
+          "definition": "Gemi, bot veya tekninin yanaşık olduğu yerden ayrılması, Avara etmek."
+        },
+        {
+          "id": "ayboci",
+          "slug": "ayboci",
+          "term": "AYBOCİ",
+          "definition": "Zincirin ırgat çalıştırılarak aşağı alınması, indirilmesi."
+        },
+        {
+          "id": "ayibacagi",
+          "slug": "ayibacagi",
+          "term": "AYI BACAĞI",
+          "definition": "Yelkenlerin farklı kontralarda açılması, Pupa seyir."
+        },
+        {
+          "id": "aynalik",
+          "slug": "aynalik",
+          "term": "AYNALIK",
+          "definition": "Kıç bodoslama üzerine konan ve dümen iğneciğinin üzerine konduğu tahta levha Ayna kıçlı tekneler"
+        },
+        {
+          "id": "aynaliktahtasi",
+          "slug": "aynaliktahtasi",
+          "term": "AYNALIK TAHTASI",
+          "definition": "Bir teknede kıç taraftaki havuzda otururken arkaya dayanmak için konulmuş olan tathta levha"
+        }
+    ]
+  }

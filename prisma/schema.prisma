@@ -1,0 +1,347 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Region {
+  id   String @id
+  slug String @unique
+
+  name        String
+  description String
+
+  image      String?
+  coverImage String?
+
+  faq Json @default("[]")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  cities  City[]
+  marinas Marina[]
+  events  Event[]
+}
+
+model City {
+  id   String @id
+  slug String @unique
+
+  name        String
+  description String?
+
+  image      String?
+  coverImage String?
+
+  regionId String
+  region   Region @relation(fields: [regionId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  districts District[]
+  marinas   Marina[]
+  events    Event[]
+}
+
+model District {
+  id   String @id
+  slug String @unique
+
+  name        String
+  description String?
+  coverImage  String?
+
+  cityId String
+  city   City   @relation(fields: [cityId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  marinas Marina[]
+  events  Event[]
+}
+
+model Marina {
+  id   String @id
+  slug String @unique
+
+  name        String
+  summary     String
+  description Json
+
+  rating Float?
+
+  regionId   String
+  cityId     String
+  districtId String
+
+  region   Region   @relation(fields: [regionId], references: [id])
+  city     City     @relation(fields: [cityId], references: [id])
+  district District @relation(fields: [districtId], references: [id])
+
+  latitude  Float
+  longitude Float
+
+  logo       String?
+  coverImage String
+
+  seaBerth      Int
+  landBerth     Int?
+  maxBoatLength Int
+  depth         String
+
+  phone      String?
+  email      String?
+  website    String?
+  vhfChannel String?
+
+  openingYear Int?
+
+  blueFlag               Boolean @default(false)
+  petFriendly            Boolean @default(false)
+  customsClearance       Boolean @default(false)
+  charterAvailable       Boolean @default(false)
+  winterStorageAvailable Boolean @default(false)
+
+  nearestAirport  String?
+  airportDistance Int?
+
+  scores         Json?
+  recommendedFor Json?
+  aiTags         Json?
+  tags           Json?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  images     MarinaImage[]
+  categories MarinaCategory[]
+  amenities  MarinaAmenity[]
+  facilities MarinaFacility[]
+  events     Event[]
+  blogs      BlogMarina[]
+}
+
+model MarinaImage {
+  id String @id @default(cuid())
+
+  image String
+
+  sortOrder Int @default(0)
+
+  marinaId String
+  marina   Marina @relation(fields: [marinaId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+}
+
+model Category {
+  id String @id @default(cuid())
+
+  slug String @unique
+
+  title String
+
+  shortDescription String
+
+  description String
+
+  heroTitle String
+
+  heroSubtitle String
+
+  icon String
+
+  image String
+
+  coverImage String
+
+  badge String
+
+  color String
+
+  seoTitle String
+
+  seoDescription String
+
+  highlights Json
+
+  faq Json
+
+  marinas MarinaCategory[]
+}
+
+model Amenity {
+  id String @id @default(cuid())
+
+  slug String @unique
+
+  title String
+
+  icon String
+
+  color String?
+
+  marinas MarinaAmenity[]
+}
+
+model Facility {
+  id String @id @default(cuid())
+
+  slug String @unique
+
+  title String
+
+  icon String
+
+  marinas MarinaFacility[]
+}
+
+model MarinaCategory {
+  marinaId String
+
+  categoryId String
+
+  marina Marina @relation(fields: [marinaId], references: [id], onDelete: Cascade)
+
+  category Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([marinaId, categoryId])
+}
+
+model MarinaAmenity {
+  marinaId String
+
+  amenityId String
+
+  marina Marina @relation(fields: [marinaId], references: [id], onDelete: Cascade)
+
+  amenity Amenity @relation(fields: [amenityId], references: [id], onDelete: Cascade)
+
+  @@id([marinaId, amenityId])
+}
+
+model MarinaFacility {
+  marinaId String
+
+  facilityId String
+
+  marina Marina @relation(fields: [marinaId], references: [id], onDelete: Cascade)
+
+  facility Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+
+  @@id([marinaId, facilityId])
+}
+
+model Event {
+  id   String @id
+  slug String @unique
+
+  title       String
+  description Json
+
+  type String
+
+  regionId   String
+  cityId     String
+  districtId String
+  marinaId   String?
+
+  locationName String?
+
+  latitude  Float?
+  longitude Float?
+
+  featuredImage String
+
+  startDate DateTime
+  endDate   DateTime?
+
+  website String?
+
+  tags Json
+
+  featured Boolean @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  region   Region   @relation(fields: [regionId], references: [id])
+  city     City     @relation(fields: [cityId], references: [id])
+  district District @relation(fields: [districtId], references: [id])
+  marina   Marina?  @relation(fields: [marinaId], references: [id], onDelete: SetNull)
+
+  images EventImage[]
+}
+
+model EventImage {
+  id String @id @default(cuid())
+
+  image     String
+  sortOrder Int    @default(0)
+
+  eventId String
+  event   Event  @relation(fields: [eventId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+}
+
+model Blog {
+  id   String @id
+  slug String @unique
+
+  category String
+
+  title   String
+  excerpt String
+
+  metaTitle       String
+  metaDescription String
+
+  featuredImage String
+  author        String
+
+  publishedAt DateTime
+
+  readingTime Int
+
+  tags    Json
+  content Json
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  relatedMarinas BlogMarina[]
+}
+
+model BlogMarina {
+  blogId   String
+  marinaId String
+
+  blog   Blog   @relation(fields: [blogId], references: [id], onDelete: Cascade)
+  marina Marina @relation(fields: [marinaId], references: [id], onDelete: Cascade)
+
+  @@id([blogId, marinaId])
+}
+
+model AdminUser {
+  id String @id @default(cuid())
+
+  name         String
+  email        String @unique
+  passwordHash String
+
+  role String @default("admin")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
