@@ -83,7 +83,8 @@ export default async function AdminMarinasPage() {
             </thead>
 
             <tbody>
-              {marinas.map((marina) => (
+            {marinas.map(
+              (marina: (typeof marinas)[number]) => (
                 <tr
                   key={marina.id}
                   className="border-b border-slate-100 last:border-b-0"
