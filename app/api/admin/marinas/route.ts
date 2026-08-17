@@ -483,7 +483,8 @@ export async function POST(
      * MARINA CREATE
      */
 
-    const marina = await prisma.$transaction(async (tx) => {
+    const marina = await prisma.$transaction(
+      async (tx: Prisma.TransactionClient) => {
       const createdMarina = await tx.marina.create({
         data: {
           id: data.slug,
