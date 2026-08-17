@@ -65,32 +65,49 @@ export default async function NewMarinaPage() {
       </div>
 
       <MarinaCreateForm
-  regions={regions.map((region) => ({
-    id: region.id,
-    name: region.name,
-  }))}
-  cities={cities.map((city) => ({
-    id: city.id,
-    name: city.name,
-    regionId: city.regionId,
-  }))}
-  districts={districts.map((district) => ({
-    id: district.id,
-    name: district.name,
-    cityId: district.cityId,
-  }))}
-  categories={categories.map((category) => ({
-    id: category.id,
-    title: category.title,
-  }))}
-  amenities={amenities.map((amenity) => ({
-    id: amenity.id,
-    title: amenity.title,
-  }))}
-  facilities={facilities.map((facility) => ({
-    id: facility.id,
-    title: facility.title,
-  }))}
+  regions={regions.map(
+    (region: (typeof regions)[number]) => ({
+      id: region.id,
+      name: region.name,
+    })
+  )}
+
+  cities={cities.map(
+    (city: (typeof cities)[number]) => ({
+      id: city.id,
+      name: city.name,
+      regionId: city.regionId,
+    })
+  )}
+
+  districts={districts.map(
+    (district: (typeof districts)[number]) => ({
+      id: district.id,
+      name: district.name,
+      cityId: district.cityId,
+    })
+  )}
+
+  categories={categories.map(
+    (category: (typeof categories)[number]) => ({
+      id: category.id,
+      title: category.title,
+    })
+  )}
+
+  amenities={amenities.map(
+    (amenity: (typeof amenities)[number]) => ({
+      id: amenity.id,
+      title: amenity.title,
+    })
+  )}
+
+  facilities={facilities.map(
+    (facility: (typeof facilities)[number]) => ({
+      id: facility.id,
+      title: facility.title,
+    })
+  )}
 />
     </section>
   );
