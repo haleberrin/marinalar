@@ -141,46 +141,61 @@ export default async function EditMarinaPage({
           winterStorageAvailable:
             marina.winterStorageAvailable,
         }}
-        regions={regions.map((region) => ({
-          id: region.id,
-          name: region.name,
-        }))}
-        cities={cities.map((city) => ({
-          id: city.id,
-          name: city.name,
-          regionId: city.regionId,
-        }))}
-        districts={districts.map((district) => ({
-          id: district.id,
-          name: district.name,
-          cityId: district.cityId,
-        }))}
-        categories={categories.map((category) => ({
+        regions={regions.map(
+          (region: (typeof regions)[number]) => ({
+            id: region.id,
+            name: region.name,
+          })
+        )}
+        cities={cities.map(
+          (city: (typeof cities)[number]) => ({
+            id: city.id,
+            name: city.name,
+            regionId: city.regionId,
+          })
+        )}
+        districts={districts.map(
+          (district: (typeof districts)[number]) => ({
+            id: district.id,
+            name: district.name,
+            cityId: district.cityId,
+          })
+        )}
+        categories={categories.map(
+          (category: (typeof categories)[number]) => ({
             id: category.id,
             title: category.title,
-          }))}
+          })
+        )}
           
-          amenities={amenities.map((amenity) => ({
+        amenities={amenities.map(
+          (amenity: (typeof amenities)[number]) => ({
             id: amenity.id,
             title: amenity.title,
-          }))}
+          })
+        )}
           
-          facilities={facilities.map((facility) => ({
+        facilities={facilities.map(
+          (facility: (typeof facilities)[number]) => ({
             id: facility.id,
             title: facility.title,
-          }))}
+          })
+        )}
           
-          selectedCategoryIds={marina.categories.map(
-            (item) => item.categoryId
-          )}
-          
-          selectedAmenityIds={marina.amenities.map(
-            (item) => item.amenityId
-          )}
-          
-          selectedFacilityIds={marina.facilities.map(
-            (item) => item.facilityId
-          )}
+        selectedCategoryIds={marina.categories.map(
+          (item: (typeof marina.categories)[number]) =>
+            item.categoryId
+        )}
+        
+        selectedAmenityIds={marina.amenities.map(
+          (item: (typeof marina.amenities)[number]) =>
+            item.amenityId
+        )}
+        
+        selectedFacilityIds={marina.facilities.map(
+          (item: (typeof marina.facilities)[number]) =>
+            item.facilityId
+        )}
       />
     </section>
   );
