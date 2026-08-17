@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
-import type { Prisma } from "@prisma/client";
+
 
 import { auth } from "@/auth";
 import { prisma } from "@/lib/prisma";
@@ -483,8 +483,7 @@ export async function POST(
      * MARINA CREATE
      */
 
-    const marina = await prisma.$transaction(
-      async (tx: Prisma.TransactionClient) => {
+    const marina = await prisma.$transaction(async (tx) => {
       const createdMarina = await tx.marina.create({
         data: {
           id: data.slug,

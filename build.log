@@ -1,0 +1,76 @@
+
+> marinalar@0.1.0 build
+> next build
+
+▲ Next.js 16.2.9 (Turbopack)
+- Environments: .env
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 4.3s
+  Running TypeScript ...
+  Finished TypeScript in 4.9s ...
+  Collecting page data using 7 workers ...
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+DATABASE_URL exists: true
+  Generating static pages using 7 workers (0/366) ...
+DATABASE_URL exists: true
+  Generating static pages using 7 workers (91/366) 
+  Generating static pages using 7 workers (182/366) 
+  Generating static pages using 7 workers (274/366) 
+✓ Generating static pages using 7 workers (366/366) in 7.5s
+  Finalizing page optimization ...
+
+Route (app)                    Revalidate  Expire
+┌ ○ /
+├ ○ /_not-found
+├ ƒ /admin
+├ ○ /admin/login
+├ ƒ /admin/marinas
+├ ƒ /admin/marinas/[id]/edit
+├ ƒ /admin/marinas/new
+├ ○ /ai-planner
+├ ƒ /api/[...nextauth]
+├ ƒ /api/admin/marinas
+├ ƒ /api/admin/marinas/[id]
+├ ○ /blogs
+├ ƒ /blogs/[slug]
+├ ○ /cities
+├ ƒ /cities/[slug]
+├ ○ /events
+├ ƒ /events/[slug]
+├ ○ /glossary
+├ ● /glossary/[slug]
+│ ├ /glossary/abaso
+│ ├ /glossary/abli
+│ ├ /glossary/aborda
+│ └ [+334 more paths]
+├ ○ /live-marine
+├ ○ /marinas
+├ ƒ /marinas/[slug]
+├ ● /marinas/category/[slug]
+│ ├ /marinas/category/family
+│ ├ /marinas/category/charter
+│ ├ /marinas/category/eco
+│ └ [+5 more paths]
+├ ƒ /marinas/city/[slug]
+├ ○ /marinas/compare
+├ ƒ /marinas/district/[slug]
+├ ○ /marinas/map
+├ ○ /marinas/nearby
+├ ƒ /marinas/region/[slug]
+├ ○ /regions
+├ ƒ /regions/[slug]
+└ ○ /weather                          30m      1y
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+
